@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[137],{7416:(_,e,u)=>{"use strict";u.r(e),u.d(e,{__N_SSG:()=>n,default:()=>a});var s=u(883),n=!0;let a=s.A},8806:(_,e,u)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/[gameType]/[subGameType]",function(){return u(7416)}])}},_=>{_.O(0,[434,259,883,636,593,792],()=>_(_.s=8806)),_N_E=_.O()}]);

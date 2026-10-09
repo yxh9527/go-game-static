@@ -1,0 +1,349 @@
+html {
+  -ms-touch-action: none;
+}
+
+body,
+canvas,
+div {
+  display: block;
+  outline: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -khtml-user-select: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+/* Remove spin of input type number */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  /* display: none; <- Crashes Chrome on hover */
+  -webkit-appearance: none;
+  margin: 0;
+  /* <-- Apparently some margin are still there even though it's hidden */
+}
+
+body {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  border: 0;
+  margin: 0;
+
+  cursor: default;
+  color: #888;
+  background-color: #333;
+
+  text-align: center;
+  font-family: Helvetica, Verdana, Arial, sans-serif;
+
+  display: flex;
+  flex-direction: column;
+
+  /* fix bug: https://github.com/cocos-creator/2d-tasks/issues/791 */
+  /* overflow cannot be applied in Cocos2dGameContainer, 
+  otherwise child elements will be hidden when Cocos2dGameContainer rotated 90 deg */
+  overflow: hidden;
+
+  --sat: env(safe-area-inset-top);
+  --sar: env(safe-area-inset-right);
+  --sab: env(safe-area-inset-bottom);
+  --sal: env(safe-area-inset-left);
+
+  --sat2: constant(safe-area-inset-top);
+  --sar2: constant(safe-area-inset-right);
+  --sab2: constant(safe-area-inset-bottom);
+  --sal2: constant(safe-area-inset-left);
+
+  > div {
+    width: 100% !important;
+    height: auto !important;
+    /* transform: none !important; */
+    /* transform-origin: initial !important; */
+  }
+}
+
+input:focus {
+  height: calc(100vh - 50px); /* Adjust the value as needed */
+  overflow: auto;
+}
+
+#Cocos2dGameContainer {
+  position: absolute;
+  margin: 0;
+  left: 0px;
+  top: 0px;
+
+  display: -webkit-box;
+  -webkit-box-orient: horizontal;
+  -webkit-box-align: center;
+  -webkit-box-pack: center;
+}
+
+canvas {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+a:link,
+a:visited {
+  color: #666;
+}
+
+a:active,
+a:hover {
+  color: #666;
+}
+
+p.header {
+  font-size: small;
+}
+
+p.footer {
+  font-size: x-small;
+}
+
+#splash {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(180deg, #FFFFFF 0%, #FFFFFF 100%);
+}
+
+#splash_logo {
+  position: absolute;
+  left: 50%;
+  top: 30%;
+  transform: translateX(-50%);
+}
+
+#loading-container {
+  position: absolute;
+  overflow: hidden;
+}
+
+.progress-container {
+    position: absolute;
+    width: 80%;
+    height: 6px;
+    border-radius: 3px;
+    align-content: center;
+    left: 10%;
+    right: 10%;
+    max-height: 6px;
+    background-color: #53546B;
+    bottom: 13%;
+}
+
+.progress-fill {
+    width: 0%;
+    height: 6px;
+    border-radius: 3px;
+    background-color: #F8C99D;
+}
+
+#loadingTip{
+  width: 96%;
+  position: absolute;
+  color: #47475F;
+}
+
+.progress-bar {
+  position: absolute;
+  left: 50%;
+  margin-left: -31%;
+  bottom: 20%;
+  height: 8px;
+  padding: 5px;
+  width: 60%;
+}
+
+#updateLabel {
+  position: absolute;
+  display: block;
+  color: #9f9aba;
+  left: 0%;
+  top: 0%;
+}
+
+#progressLabel {
+  position: absolute;
+  font-size: 18px;
+  display: block;
+  color: #000000;
+  width: 100%;
+  text-align: center;
+  top: 0%;
+}
+
+@property --progress {
+  syntax: '<percentage>';
+  inherits: false;
+  initial-value: 0%;
+}
+
+#cropImg {
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+strong {
+  font-weight: bold;
+}
+
+.button {
+  background-color: #f2f2f2;
+  background-image: linear-gradient(to bottom, #f2f2f2, #f2f2f2);
+  border: 1px solid #bfbfbf;
+  box-shadow: inset 0 1px 0 white, inset 0 -1px 0 #d9d9d9, inset 0 0 0 1px #f2f2f2, 0 2px 4px rgba(0, 0, 0, 0.2);
+  color: #8c8c8c;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+  border-radius: 3px;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Verdana, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20px;
+  padding: 9px 16px 9px;
+  margin: 16px 0 0 16px;
+  transition: all 20ms ease-out;
+  vertical-align: top;
+}
+
+.button:hover,
+.button:focus {
+  background: #f2f2f2;
+  border-color: #8c8c8c;
+  box-shadow: inset 0 1px 0 white, inset 0 -1px 0 #d9d9d9, inset 0 0 0 1px #f2f2f2;
+}
+
+.button:active {
+  background: #f2f2f2;
+  box-shadow: inset 0 2px 3px rgba(0, 0, 0, 0.2);
+}
+
+.button .fa {
+  color: #bfbfbf;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+}
+
+.cropCancle {
+  background-color: #f2f2f2;
+  background-image: linear-gradient(to bottom, #f2f2f2, #f2f2f2);
+  border: 1px solid #bfbfbf;
+  box-shadow: inset 0 1px 0 white, inset 0 -1px 0 #d9d9d9, inset 0 0 0 1px #f2f2f2, 0 2px 4px rgba(0, 0, 0, 0.2);
+  color: #8c8c8c;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+  border-radius: 3px;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Verdana, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20px;
+  padding: 9px 16px 9px;
+  margin: 16px 0 0 16px;
+  transition: all 20ms ease-out;
+  vertical-align: top;
+}
+
+.cropCancle {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.cropCancle:hover,
+.cropCancle:focus {
+  background: #f2f2f2;
+  border-color: #8c8c8c;
+  box-shadow: inset 0 1px 0 white, inset 0 -1px 0 #d9d9d9, inset 0 0 0 1px #f2f2f2;
+}
+
+.cropCancle:active {
+  background: #f2f2f2;
+  box-shadow: inset 0 2px 3px rgba(0, 0, 0, 0.2);
+}
+
+.cropCancle .fa {
+  color: #bfbfbf;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+}
+
+.cropConfirm {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  background-color: #97cc76;
+  background-image: linear-gradient(to bottom, #97cc76, #8bcc62);
+  border: 1px solid #5f993a;
+  box-shadow: inset 0 1px 0 #c6e6b3, inset 0 -1px 0 #79b356, inset 0 0 0 1px #a4cc8b, 0 2px 4px rgba(0, 0, 0, 0.2);
+  color: white;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.cropConfirm:hover,
+.cropConfirm:focus {
+  background: #8bcc62;
+  border-color: #326612;
+  box-shadow: inset 0 1px 0 #c6e6b3, inset 0 -1px 0 #79b356, inset 0 0 0 1px #a4cc8b;
+}
+
+.cropConfirm:active {
+  background: #8bcc62;
+  box-shadow: inset 0 2px 3px rgba(0, 0, 0, 0.2);
+}
+
+.cropConfirm .fa {
+  color: #5f993a;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+}
+
+dialog {
+  padding: 0;
+  border: none;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2);
+  width: 300px;
+  border-radius: 10px;
+}
+
+.header {
+  padding: 10px;
+  color: #fff;
+  border-radius: 10px 10px 0 0;
+  background: #50a8fa;
+}
+
+.content {
+  padding: 30px 12px 30px 12px;
+}
+
+.footer {
+  background: #f9f9f9;
+  overflow: hidden;
+  border-radius: 0 0 10px 10px;
+  padding-right: 20px;
+}
+
+.footer .ok,
+.footer .cancel {
+  padding: 10px;
+  float: right;
+  cursor: pointer;
+}
+
+.footer .ok:hover,
+.footer .cancel:hover {
+  background: #ededed;
+}
