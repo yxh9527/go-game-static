@@ -1,0 +1,27 @@
+
+iconB.png
+size: 566,327
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gkB_mao
+  rotate: false
+  xy: 2, 2
+  size: 368, 323
+  orig: 369, 325
+  offset: 0, 2
+  index: -1
+z yihan
+  rotate: true
+  xy: 372, 30
+  size: 295, 95
+  orig: 304, 105
+  offset: 5, 6
+  index: -1
+z yihan l
+  rotate: true
+  xy: 469, 30
+  size: 295, 95
+  orig: 304, 105
+  offset: 5, 6
+  index: -1

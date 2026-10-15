@@ -1,0 +1,20 @@
+
+infoboard.png
+size: 1726,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI/frame
+  rotate: false
+  xy: 2, 2
+  size: 1120, 166
+  orig: 1122, 170
+  offset: 0, 4
+  index: -1
+UI/frame2
+  rotate: false
+  xy: 1124, 55
+  size: 600, 113
+  orig: 606, 119
+  offset: 3, 3
+  index: -1
