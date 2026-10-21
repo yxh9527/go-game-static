@@ -1,0 +1,216 @@
+
+mj_santong.png
+size: 284,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 158, 71
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+piaog_b00001
+  rotate: true
+  xy: 2, 2
+  size: 45, 37
+  orig: 47, 39
+  offset: 1, 1
+  index: -1
+piaog_b00002
+  rotate: true
+  xy: 158, 109
+  size: 95, 36
+  orig: 97, 39
+  offset: 1, 1
+  index: -1
+piaog_b00003
+  rotate: true
+  xy: 120, 93
+  size: 111, 36
+  orig: 113, 38
+  offset: 1, 1
+  index: -1
+piaog_b00004
+  rotate: true
+  xy: 80, 75
+  size: 127, 38
+  orig: 129, 41
+  offset: 1, 2
+  index: -1
+piaog_b00005
+  rotate: true
+  xy: 40, 57
+  size: 145, 38
+  orig: 149, 41
+  offset: 2, 2
+  index: -1
+piaog_b00006
+  rotate: true
+  xy: 247, 167
+  size: 147, 35
+  orig: 149, 38
+  offset: 1, 2
+  index: -1
+piaog_b00007
+  rotate: false
+  xy: 94, 242
+  size: 149, 34
+  orig: 151, 37
+  offset: 1, 1
+  index: -1
+piaog_b00008
+  rotate: false
+  xy: 94, 278
+  size: 151, 36
+  orig: 153, 39
+  offset: 1, 1
+  index: -1
+piaog_b00009
+  rotate: true
+  xy: 2, 49
+  size: 153, 36
+  orig: 156, 39
+  offset: 2, 1
+  index: -1
+piaog_b00010
+  rotate: false
+  xy: 94, 206
+  size: 132, 34
+  orig: 141, 36
+  offset: 8, 1
+  index: -1
+piaog_b00011
+  rotate: true
+  xy: 196, 121
+  size: 83, 29
+  orig: 89, 32
+  offset: 5, 1
+  index: -1
+piaog_b00012
+  rotate: true
+  xy: 259, 341
+  size: 38, 18
+  orig: 44, 24
+  offset: 5, 2
+  index: -1
+piaog_b00013
+  rotate: true
+  xy: 228, 219
+  size: 21, 11
+  orig: 26, 15
+  offset: 4, 2
+  index: -1
+piaog_b00014
+  rotate: false
+  xy: 241, 233
+  size: 4, 7
+  orig: 10, 13
+  offset: 4, 3
+  index: -1
+santong_CN
+  rotate: false
+  xy: 94, 413
+  size: 178, 106
+  orig: 185, 109
+  offset: 3, 3
+  index: -1
+santong_di
+  rotate: true
+  xy: 2, 204
+  size: 315, 90
+  orig: 320, 90
+  offset: 1, 0
+  index: -1
+santong_huaA1
+  rotate: true
+  xy: 93, 5
+  size: 68, 60
+  orig: 68, 61
+  offset: 0, 1
+  index: -1
+santong_huaA2
+  rotate: true
+  xy: 231, 11
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+santong_huaA3
+  rotate: true
+  xy: 227, 124
+  size: 41, 55
+  orig: 41, 56
+  offset: 0, 1
+  index: -1
+santong_huaA4
+  rotate: false
+  xy: 41, 2
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+santong_huaA5
+  rotate: true
+  xy: 196, 86
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+santong_huaA6
+  rotate: true
+  xy: 155, 26
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+santong_huaA7
+  rotate: false
+  xy: 227, 87
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+santong_huaA8
+  rotate: false
+  xy: 231, 47
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+santong_huaA9
+  rotate: true
+  xy: 195, 23
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+santong_huabanA
+  rotate: true
+  xy: 259, 381
+  size: 30, 23
+  orig: 32, 24
+  offset: 1, 0
+  index: -1
+santong_huabanB
+  rotate: true
+  xy: 259, 319
+  size: 20, 12
+  orig: 22, 14
+  offset: 1, 1
+  index: -1
+santong_huabanC
+  rotate: false
+  xy: 80, 59
+  size: 10, 14
+  orig: 11, 14
+  offset: 1, 0
+  index: -1
+tz_gx
+  rotate: false
+  xy: 94, 316
+  size: 163, 95
+  orig: 172, 109
+  offset: 3, 7
+  index: -1

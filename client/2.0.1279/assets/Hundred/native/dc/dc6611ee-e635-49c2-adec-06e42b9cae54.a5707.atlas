@@ -1,0 +1,13 @@
+
+bjl_ggl.png
+size: 81,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gglts
+  rotate: false
+  xy: 2, 2
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+23zhenjing.png
+size: 223,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 13
+  size: 90, 95
+  orig: 94, 100
+  offset: 2, 2
+  index: -1
+meiL
+  rotate: false
+  xy: 2, 5
+  size: 21, 6
+  orig: 23, 8
+  offset: 1, 1
+  index: -1
+meiR
+  rotate: true
+  xy: 158, 70
+  size: 20, 14
+  orig: 22, 16
+  offset: 1, 1
+  index: -1
+shouL
+  rotate: false
+  xy: 143, 4
+  size: 31, 39
+  orig: 33, 41
+  offset: 1, 1
+  index: -1
+shouR
+  rotate: true
+  xy: 158, 47
+  size: 21, 43
+  orig: 25, 46
+  offset: 2, 2
+  index: -1
+yanbaiL
+  rotate: true
+  xy: 94, 2
+  size: 41, 47
+  orig: 45, 50
+  offset: 1, 2
+  index: -1
+yanbaiR
+  rotate: true
+  xy: 176, 73
+  size: 35, 45
+  orig: 38, 48
+  offset: 2, 2
+  index: -1
+yantongL
+  rotate: false
+  xy: 158, 92
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+yantongR
+  rotate: false
+  xy: 158, 92
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+zui
+  rotate: true
+  xy: 94, 45
+  size: 63, 62
+  orig: 69, 65
+  offset: 3, 2
+  index: -1
+zuishe
+  rotate: false
+  xy: 176, 2
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1

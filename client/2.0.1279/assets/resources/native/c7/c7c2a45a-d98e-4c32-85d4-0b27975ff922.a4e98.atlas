@@ -1,0 +1,76 @@
+
+mjz.png
+size: 150,557
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mjz_00000
+  rotate: false
+  xy: 2, 3
+  size: 72, 102
+  orig: 74, 104
+  offset: 1, 1
+  index: -1
+mjz_00001
+  rotate: false
+  xy: 76, 2
+  size: 71, 103
+  orig: 73, 105
+  offset: 1, 1
+  index: -1
+mjz_00002
+  rotate: false
+  xy: 2, 217
+  size: 75, 108
+  orig: 77, 110
+  offset: 1, 1
+  index: -1
+mjz_00003
+  rotate: false
+  xy: 2, 442
+  size: 76, 113
+  orig: 78, 115
+  offset: 1, 1
+  index: -1
+mjz_00004
+  rotate: false
+  xy: 80, 440
+  size: 65, 115
+  orig: 67, 117
+  offset: 1, 1
+  index: -1
+mjz_00005
+  rotate: false
+  xy: 80, 327
+  size: 42, 111
+  orig: 44, 113
+  offset: 1, 1
+  index: -1
+mjz_00006
+  rotate: false
+  xy: 79, 107
+  size: 65, 114
+  orig: 67, 116
+  offset: 1, 1
+  index: -1
+mjz_00007
+  rotate: false
+  xy: 2, 327
+  size: 76, 113
+  orig: 78, 115
+  offset: 1, 1
+  index: -1
+mjz_00008
+  rotate: false
+  xy: 2, 107
+  size: 75, 108
+  orig: 77, 110
+  offset: 1, 1
+  index: -1
+mjz_00009
+  rotate: false
+  xy: 79, 223
+  size: 69, 102
+  orig: 71, 104
+  offset: 1, 1
+  index: -1

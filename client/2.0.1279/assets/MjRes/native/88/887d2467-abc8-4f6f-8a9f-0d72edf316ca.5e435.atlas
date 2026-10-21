@@ -1,0 +1,27 @@
+
+zhishi.png
+size: 118,34
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+txa
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+txb
+  rotate: true
+  xy: 34, 2
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+txb2
+  rotate: true
+  xy: 76, 2
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1

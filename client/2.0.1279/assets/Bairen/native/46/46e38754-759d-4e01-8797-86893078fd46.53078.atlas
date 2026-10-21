@@ -1,0 +1,34 @@
+
+kuang_nn.png
+size: 738,242
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k_nn_238x160
+  rotate: true
+  xy: 414, 2
+  size: 238, 160
+  orig: 238, 160
+  offset: 0, 0
+  index: -1
+k_nn_238x160y
+  rotate: true
+  xy: 576, 2
+  size: 238, 160
+  orig: 238, 160
+  offset: 0, 0
+  index: -1
+k_nn_yl
+  rotate: true
+  xy: 2, 2
+  size: 238, 204
+  orig: 238, 204
+  offset: 0, 0
+  index: -1
+k_nn_yr
+  rotate: true
+  xy: 208, 2
+  size: 238, 204
+  orig: 238, 204
+  offset: 0, 0
+  index: -1

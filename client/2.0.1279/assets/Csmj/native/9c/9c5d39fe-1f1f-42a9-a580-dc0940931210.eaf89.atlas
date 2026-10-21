@@ -1,0 +1,48 @@
+
+mj_haidipai.png
+size: 268,503
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 117, 187
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+haidipai_CN
+  rotate: true
+  xy: 158, 281
+  size: 220, 108
+  orig: 220, 108
+  offset: 0, 0
+  index: -1
+haidipai_fish
+  rotate: false
+  xy: 158, 152
+  size: 96, 127
+  orig: 96, 127
+  offset: 0, 0
+  index: -1
+haidipai_shuia
+  rotate: true
+  xy: 2, 225
+  size: 276, 154
+  orig: 276, 154
+  offset: 0, 0
+  index: -1
+haidipai_shuib
+  rotate: true
+  xy: 2, 2
+  size: 221, 113
+  orig: 225, 113
+  offset: 3, 0
+  index: -1
+wz_xin_xixian
+  rotate: false
+  xy: 117, 30
+  size: 121, 120
+  orig: 128, 128
+  offset: 4, 5
+  index: -1

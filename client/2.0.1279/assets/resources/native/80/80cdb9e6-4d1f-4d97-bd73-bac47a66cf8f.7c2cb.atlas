@@ -1,0 +1,223 @@
+
+guangxiao.png
+size: 1741,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liuguang 2_00000
+  rotate: true
+  xy: 123, 88
+  size: 11, 10
+  orig: 14, 15
+  offset: 2, 2
+  index: -1
+liuguang 2_00001
+  rotate: true
+  xy: 2, 7
+  size: 65, 63
+  orig: 101, 98
+  offset: 8, 28
+  index: -1
+liuguang 2_00002
+  rotate: true
+  xy: 1637, 46
+  size: 83, 85
+  orig: 117, 123
+  offset: 7, 30
+  index: -1
+liuguang 2_00003
+  rotate: true
+  xy: 663, 9
+  size: 95, 110
+  orig: 127, 143
+  offset: 7, 27
+  index: -1
+liuguang 2_00004
+  rotate: true
+  xy: 907, 8
+  size: 106, 124
+  orig: 128, 150
+  offset: 7, 20
+  index: -1
+liuguang 2_00005
+  rotate: true
+  xy: 416, 105
+  size: 114, 137
+  orig: 132, 156
+  offset: 7, 13
+  index: -1
+liuguang 2_00006
+  rotate: true
+  xy: 271, 103
+  size: 116, 143
+  orig: 133, 158
+  offset: 8, 9
+  index: -1
+liuguang 2_00007
+  rotate: true
+  xy: 123, 101
+  size: 118, 146
+  orig: 133, 159
+  offset: 7, 8
+  index: -1
+liuguang 2_00008
+  rotate: false
+  xy: 2, 74
+  size: 119, 145
+  orig: 135, 159
+  offset: 8, 7
+  index: -1
+liuguang 2_00009
+  rotate: true
+  xy: 1033, 6
+  size: 119, 144
+  orig: 134, 158
+  offset: 8, 6
+  index: -1
+liuguang 2_00010
+  rotate: true
+  xy: 1179, 9
+  size: 117, 140
+  orig: 133, 156
+  offset: 9, 6
+  index: -1
+liuguang 2_00011
+  rotate: true
+  xy: 555, 106
+  size: 113, 132
+  orig: 131, 153
+  offset: 11, 7
+  index: -1
+liuguang 2_00012
+  rotate: true
+  xy: 689, 110
+  size: 109, 131
+  orig: 127, 146
+  offset: 11, 6
+  index: -1
+liuguang 2_00013
+  rotate: true
+  xy: 775, 3
+  size: 105, 130
+  orig: 127, 139
+  offset: 15, 7
+  index: -1
+liuguang 2_00014
+  rotate: true
+  xy: 822, 116
+  size: 103, 130
+  orig: 121, 139
+  offset: 11, 8
+  index: -1
+liuguang 2_00015
+  rotate: true
+  xy: 534, 3
+  size: 100, 127
+  orig: 111, 136
+  offset: 2, 7
+  index: -1
+liuguang 2_00016
+  rotate: true
+  xy: 290, 3
+  size: 98, 123
+  orig: 110, 135
+  offset: 2, 10
+  index: -1
+liuguang 2_00017
+  rotate: true
+  xy: 166, 4
+  size: 95, 122
+  orig: 110, 133
+  offset: 2, 9
+  index: -1
+liuguang 2_00018
+  rotate: true
+  xy: 415, 8
+  size: 93, 117
+  orig: 108, 131
+  offset: 2, 13
+  index: -1
+liuguang 2_00019
+  rotate: true
+  xy: 1296, 129
+  size: 90, 111
+  orig: 93, 116
+  offset: 1, 2
+  index: -1
+liuguang 2_00020
+  rotate: true
+  xy: 1182, 129
+  size: 90, 112
+  orig: 95, 115
+  offset: 3, 2
+  index: -1
+liuguang 2_00021
+  rotate: true
+  xy: 954, 127
+  size: 92, 112
+  orig: 97, 115
+  offset: 3, 2
+  index: -1
+liuguang 2_00022
+  rotate: true
+  xy: 1068, 128
+  size: 91, 112
+  orig: 95, 116
+  offset: 1, 2
+  index: -1
+liuguang 2_00023
+  rotate: true
+  xy: 1409, 129
+  size: 90, 111
+  orig: 92, 115
+  offset: 1, 2
+  index: -1
+liuguang 2_00024
+  rotate: false
+  xy: 1544, 19
+  size: 91, 109
+  orig: 94, 115
+  offset: 2, 2
+  index: -1
+liuguang 2_00025
+  rotate: false
+  xy: 1449, 20
+  size: 93, 107
+  orig: 96, 110
+  offset: 1, 2
+  index: -1
+liuguang 2_00026
+  rotate: true
+  xy: 1631, 131
+  size: 88, 108
+  orig: 95, 111
+  offset: 6, 2
+  index: -1
+liuguang 2_00027
+  rotate: true
+  xy: 1522, 130
+  size: 89, 107
+  orig: 96, 109
+  offset: 6, 1
+  index: -1
+liuguang 2_00028
+  rotate: false
+  xy: 67, 3
+  size: 48, 69
+  orig: 91, 109
+  offset: 42, 1
+  index: -1
+liuguang 2_00029
+  rotate: false
+  xy: 117, 4
+  size: 47, 68
+  orig: 51, 110
+  offset: 3, 3
+  index: -1
+xingguang
+  rotate: false
+  xy: 1321, 2
+  size: 126, 125
+  orig: 150, 150
+  offset: 13, 9
+  index: -1

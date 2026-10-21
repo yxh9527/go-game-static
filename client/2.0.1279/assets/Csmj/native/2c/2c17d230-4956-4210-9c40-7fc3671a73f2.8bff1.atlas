@@ -1,0 +1,188 @@
+
+mj_jiangyizhihua.png
+size: 586,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 523, 124
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+jyzh_CN
+  rotate: true
+  xy: 439, 390
+  size: 339, 125
+  orig: 345, 132
+  offset: 3, 3
+  index: -1
+jyzh_di
+  rotate: false
+  xy: 124, 471
+  size: 313, 258
+  orig: 353, 290
+  offset: 19, 16
+  index: -1
+jyzh_huaban
+  rotate: true
+  xy: 525, 82
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+jyzh_huazhiA
+  rotate: true
+  xy: 403, 200
+  size: 188, 178
+  orig: 188, 178
+  offset: 0, 0
+  index: -1
+jyzh_huazhiB
+  rotate: false
+  xy: 140, 43
+  size: 124, 130
+  orig: 124, 130
+  offset: 0, 0
+  index: -1
+jyzh_pdA
+  rotate: false
+  xy: 124, 175
+  size: 277, 294
+  orig: 278, 294
+  offset: 1, 0
+  index: -1
+jyzh_pdB
+  rotate: false
+  xy: 266, 102
+  size: 108, 71
+  orig: 108, 71
+  offset: 0, 0
+  index: -1
+jyzh_pdC
+  rotate: false
+  xy: 2, 731
+  size: 527, 299
+  orig: 528, 303
+  offset: 0, 0
+  index: -1
+jyzh_st hc
+  rotate: false
+  xy: 514, 8
+  size: 67, 72
+  orig: 67, 72
+  offset: 0, 0
+  index: -1
+jyzh_st shan
+  rotate: true
+  xy: 2, 168
+  size: 561, 120
+  orig: 561, 121
+  offset: 0, 1
+  index: -1
+jyzh_st tin
+  rotate: false
+  xy: 2, 30
+  size: 136, 136
+  orig: 138, 136
+  offset: 1, 0
+  index: -1
+piaog_b00001
+  rotate: true
+  xy: 467, 2
+  size: 45, 37
+  orig: 47, 39
+  offset: 1, 1
+  index: -1
+piaog_b00002
+  rotate: false
+  xy: 266, 64
+  size: 95, 36
+  orig: 97, 39
+  offset: 1, 1
+  index: -1
+piaog_b00003
+  rotate: false
+  xy: 354, 11
+  size: 111, 36
+  orig: 113, 38
+  offset: 1, 1
+  index: -1
+piaog_b00004
+  rotate: false
+  xy: 140, 3
+  size: 127, 38
+  orig: 129, 41
+  offset: 1, 2
+  index: -1
+piaog_b00005
+  rotate: false
+  xy: 376, 122
+  size: 145, 38
+  orig: 149, 41
+  offset: 2, 2
+  index: -1
+piaog_b00006
+  rotate: false
+  xy: 376, 85
+  size: 147, 35
+  orig: 149, 38
+  offset: 1, 2
+  index: -1
+piaog_b00007
+  rotate: false
+  xy: 363, 49
+  size: 149, 34
+  orig: 151, 37
+  offset: 1, 1
+  index: -1
+piaog_b00008
+  rotate: false
+  xy: 403, 162
+  size: 151, 36
+  orig: 153, 39
+  offset: 1, 1
+  index: -1
+piaog_b00009
+  rotate: true
+  xy: 531, 877
+  size: 153, 36
+  orig: 156, 39
+  offset: 2, 1
+  index: -1
+piaog_b00010
+  rotate: true
+  xy: 531, 743
+  size: 132, 34
+  orig: 141, 36
+  offset: 8, 1
+  index: -1
+piaog_b00011
+  rotate: false
+  xy: 269, 33
+  size: 83, 29
+  orig: 89, 32
+  offset: 5, 1
+  index: -1
+piaog_b00012
+  rotate: true
+  xy: 566, 703
+  size: 38, 18
+  orig: 44, 24
+  offset: 5, 2
+  index: -1
+piaog_b00013
+  rotate: false
+  xy: 376, 162
+  size: 21, 11
+  orig: 26, 15
+  offset: 4, 2
+  index: -1
+piaog_b00014
+  rotate: true
+  xy: 354, 58
+  size: 4, 7
+  orig: 10, 13
+  offset: 4, 3
+  index: -1

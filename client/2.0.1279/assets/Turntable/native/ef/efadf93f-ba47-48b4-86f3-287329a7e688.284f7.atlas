@@ -1,0 +1,153 @@
+
+br_mj_a.png
+size: 333,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baok_00000
+  rotate: false
+  xy: 2, 2
+  size: 110, 108
+  orig: 118, 117
+  offset: 3, 4
+  index: -1
+baok_00001
+  rotate: false
+  xy: 2, 2
+  size: 110, 108
+  orig: 118, 117
+  offset: 3, 4
+  index: -1
+baok_00002
+  rotate: false
+  xy: 142, 386
+  size: 129, 135
+  orig: 134, 144
+  offset: 3, 4
+  index: -1
+baok_00003
+  rotate: false
+  xy: 2, 379
+  size: 138, 142
+  orig: 144, 150
+  offset: 3, 5
+  index: -1
+baok_00004
+  rotate: false
+  xy: 2, 238
+  size: 136, 139
+  orig: 141, 145
+  offset: 2, 3
+  index: -1
+baok_00005
+  rotate: false
+  xy: 2, 112
+  size: 131, 124
+  orig: 137, 131
+  offset: 3, 3
+  index: -1
+baok_00006
+  rotate: false
+  xy: 240, 296
+  size: 87, 88
+  orig: 95, 95
+  offset: 4, 3
+  index: -1
+baok_00007
+  rotate: false
+  xy: 135, 119
+  size: 69, 71
+  orig: 78, 79
+  offset: 5, 4
+  index: -1
+baok_00008
+  rotate: true
+  xy: 262, 83
+  size: 36, 32
+  orig: 44, 40
+  offset: 4, 4
+  index: -1
+gdian
+  rotate: true
+  xy: 214, 19
+  size: 48, 45
+  orig: 50, 46
+  offset: 1, 1
+  index: -1
+gxa
+  rotate: false
+  xy: 142, 289
+  size: 96, 95
+  orig: 100, 99
+  offset: 2, 2
+  index: -1
+gxb
+  rotate: false
+  xy: 114, 12
+  size: 98, 98
+  orig: 100, 100
+  offset: 1, 1
+  index: -1
+mj_bb1
+  rotate: false
+  xy: 273, 456
+  size: 56, 65
+  orig: 66, 66
+  offset: 5, 1
+  index: -1
+mj_f1
+  rotate: false
+  xy: 273, 389
+  size: 56, 65
+  orig: 66, 66
+  offset: 5, 1
+  index: -1
+mj_h1
+  rotate: false
+  xy: 206, 121
+  size: 69, 69
+  orig: 73, 72
+  offset: 2, 1
+  index: -1
+mj_z1
+  rotate: false
+  xy: 277, 230
+  size: 54, 64
+  orig: 66, 66
+  offset: 6, 2
+  index: -1
+mjgka
+  rotate: false
+  xy: 238, 205
+  size: 37, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+mjgkb
+  rotate: true
+  xy: 140, 192
+  size: 95, 96
+  orig: 100, 100
+  offset: 3, 2
+  index: -1
+sgb
+  rotate: false
+  xy: 214, 69
+  size: 46, 50
+  orig: 50, 50
+  offset: 2, 0
+  index: -1
+xg
+  rotate: false
+  xy: 277, 184
+  size: 44, 44
+  orig: 50, 50
+  offset: 3, 3
+  index: -1
+yuanbao
+  rotate: true
+  xy: 277, 132
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1

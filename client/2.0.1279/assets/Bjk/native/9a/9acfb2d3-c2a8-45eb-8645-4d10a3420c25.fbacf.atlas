@@ -1,0 +1,27 @@
+
+21d_huanpai.png
+size: 351,85
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pai_D
+  rotate: true
+  xy: 2, 2
+  size: 81, 115
+  orig: 81, 115
+  offset: 0, 0
+  index: -1
+paibei_1
+  rotate: true
+  xy: 119, 2
+  size: 81, 114
+  orig: 81, 114
+  offset: 0, 0
+  index: -1
+paibei_2
+  rotate: true
+  xy: 235, 2
+  size: 81, 114
+  orig: 81, 114
+  offset: 0, 0
+  index: -1

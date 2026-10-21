@@ -1,0 +1,76 @@
+
+mj_pengpenghu.png
+size: 573,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 140, 24
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+pph_CN
+  rotate: true
+  xy: 489, 40
+  size: 221, 82
+  orig: 224, 85
+  offset: 1, 1
+  index: -1
+pph_denglongA
+  rotate: true
+  xy: 140, 3
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+pph_denglongB
+  rotate: false
+  xy: 174, 2
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+pph_di
+  rotate: false
+  xy: 2, 62
+  size: 292, 74
+  orig: 304, 80
+  offset: 6, 3
+  index: -1
+pph_niao
+  rotate: true
+  xy: 178, 41
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+pph_piaoA
+  rotate: false
+  xy: 2, 6
+  size: 136, 54
+  orig: 136, 54
+  offset: 0, 0
+  index: -1
+pph_piaoB
+  rotate: false
+  xy: 296, 6
+  size: 191, 65
+  orig: 191, 65
+  offset: 0, 0
+  index: -1
+pph_shan
+  rotate: false
+  xy: 2, 138
+  size: 292, 123
+  orig: 292, 124
+  offset: 0, 1
+  index: -1
+pph_shexian
+  rotate: true
+  xy: 296, 73
+  size: 188, 184
+  orig: 191, 185
+  offset: 0, 1
+  index: -1

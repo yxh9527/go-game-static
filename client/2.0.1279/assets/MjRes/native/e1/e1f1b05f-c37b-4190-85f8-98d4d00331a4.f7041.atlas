@@ -1,0 +1,48 @@
+
+jsmj_BTtiantin.png
+size: 218,421
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bsks_di_x
+  rotate: false
+  xy: 2, 184
+  size: 200, 86
+  orig: 200, 88
+  offset: 0, 0
+  index: -1
+bt_bgg
+  rotate: false
+  xy: 2, 272
+  size: 190, 147
+  orig: 190, 148
+  offset: 0, 0
+  index: -1
+bt_tiant_CN
+  rotate: true
+  xy: 125, 30
+  size: 152, 91
+  orig: 154, 92
+  offset: 1, 1
+  index: -1
+dian
+  rotate: false
+  xy: 63, 24
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+wz_xin_xixian
+  rotate: false
+  xy: 2, 62
+  size: 121, 120
+  orig: 128, 128
+  offset: 4, 5
+  index: -1
+xgb
+  rotate: false
+  xy: 2, 2
+  size: 59, 58
+  orig: 70, 70
+  offset: 6, 4
+  index: -1

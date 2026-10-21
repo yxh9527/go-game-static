@@ -1,0 +1,97 @@
+
+05qiufangguo.png
+size: 150,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 45
+  size: 90, 95
+  orig: 94, 99
+  offset: 2, 2
+  index: -1
+meiL
+  rotate: true
+  xy: 130, 30
+  size: 27, 18
+  orig: 29, 20
+  offset: 1, 1
+  index: -1
+meiR
+  rotate: false
+  xy: 94, 48
+  size: 34, 9
+  orig: 36, 11
+  offset: 1, 1
+  index: -1
+shouL
+  rotate: false
+  xy: 94, 97
+  size: 27, 43
+  orig: 31, 46
+  offset: 2, 2
+  index: -1
+shouR
+  rotate: false
+  xy: 123, 97
+  size: 24, 43
+  orig: 30, 46
+  offset: 4, 2
+  index: -1
+shui01
+  rotate: true
+  xy: 112, 9
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+shui02
+  rotate: false
+  xy: 126, 2
+  size: 13, 8
+  orig: 15, 11
+  offset: 1, 2
+  index: -1
+ya
+  rotate: true
+  xy: 126, 59
+  size: 36, 17
+  orig: 38, 19
+  offset: 1, 1
+  index: -1
+yanbaiL
+  rotate: false
+  xy: 70, 3
+  size: 40, 40
+  orig: 44, 43
+  offset: 1, 1
+  index: -1
+yanbaiR
+  rotate: false
+  xy: 94, 59
+  size: 30, 36
+  orig: 32, 40
+  offset: 1, 2
+  index: -1
+yantongL
+  rotate: true
+  xy: 130, 12
+  size: 16, 15
+  orig: 18, 17
+  offset: 1, 1
+  index: -1
+yantongR
+  rotate: false
+  xy: 112, 29
+  size: 16, 17
+  orig: 18, 19
+  offset: 1, 1
+  index: -1
+zui
+  rotate: false
+  xy: 2, 5
+  size: 66, 38
+  orig: 69, 41
+  offset: 2, 2
+  index: -1

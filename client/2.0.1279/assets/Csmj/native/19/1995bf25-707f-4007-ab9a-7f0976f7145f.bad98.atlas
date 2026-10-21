@@ -1,0 +1,111 @@
+
+mj_tinpaik_b.png
+size: 1314,74
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tinpaik_b_00000
+  rotate: true
+  xy: 2, 2
+  size: 70, 87
+  orig: 72, 94
+  offset: 1, 4
+  index: -1
+tinpaik_b_00001
+  rotate: true
+  xy: 91, 2
+  size: 70, 87
+  orig: 72, 94
+  offset: 1, 4
+  index: -1
+tinpaik_b_00002
+  rotate: true
+  xy: 180, 2
+  size: 70, 86
+  orig: 72, 94
+  offset: 1, 4
+  index: -1
+tinpaik_b_00003
+  rotate: true
+  xy: 268, 2
+  size: 70, 86
+  orig: 72, 94
+  offset: 1, 4
+  index: -1
+tinpaik_b_00004
+  rotate: true
+  xy: 356, 2
+  size: 70, 86
+  orig: 72, 94
+  offset: 1, 4
+  index: -1
+tinpaik_b_00005
+  rotate: true
+  xy: 444, 2
+  size: 70, 85
+  orig: 72, 94
+  offset: 1, 4
+  index: -1
+tinpaik_b_00006
+  rotate: true
+  xy: 531, 2
+  size: 70, 85
+  orig: 72, 94
+  offset: 1, 4
+  index: -1
+tinpaik_b_00007
+  rotate: true
+  xy: 618, 2
+  size: 70, 84
+  orig: 72, 94
+  offset: 1, 5
+  index: -1
+tinpaik_b_00008
+  rotate: true
+  xy: 704, 2
+  size: 70, 85
+  orig: 72, 94
+  offset: 1, 5
+  index: -1
+tinpaik_b_00009
+  rotate: true
+  xy: 791, 2
+  size: 70, 85
+  orig: 72, 94
+  offset: 1, 5
+  index: -1
+tinpaik_b_00010
+  rotate: true
+  xy: 878, 2
+  size: 70, 85
+  orig: 72, 94
+  offset: 1, 5
+  index: -1
+tinpaik_b_00011
+  rotate: true
+  xy: 965, 2
+  size: 70, 85
+  orig: 72, 94
+  offset: 1, 5
+  index: -1
+tinpaik_b_00012
+  rotate: true
+  xy: 1052, 2
+  size: 70, 85
+  orig: 72, 94
+  offset: 1, 5
+  index: -1
+tinpaik_b_00013
+  rotate: true
+  xy: 1139, 2
+  size: 70, 85
+  orig: 72, 94
+  offset: 1, 5
+  index: -1
+tinpaik_b_00014
+  rotate: true
+  xy: 1226, 2
+  size: 70, 86
+  orig: 72, 94
+  offset: 1, 4
+  index: -1

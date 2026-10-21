@@ -1,0 +1,20 @@
+
+mj_niaok.png
+size: 141,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gq2
+  rotate: true
+  xy: 2, 2
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+niaoyumao
+  rotate: false
+  xy: 105, 42
+  size: 34, 60
+  orig: 34, 60
+  offset: 0, 0
+  index: -1

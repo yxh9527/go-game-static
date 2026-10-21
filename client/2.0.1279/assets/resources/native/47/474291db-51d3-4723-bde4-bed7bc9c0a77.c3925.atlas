@@ -1,0 +1,76 @@
+
+19moyu.png
+size: 196,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 3
+  size: 89, 95
+  orig: 92, 100
+  offset: 1, 2
+  index: -1
+meiL
+  rotate: false
+  xy: 99, 3
+  size: 10, 4
+  orig: 12, 6
+  offset: 1, 1
+  index: -1
+meiR
+  rotate: false
+  xy: 99, 3
+  size: 10, 4
+  orig: 12, 6
+  offset: 1, 1
+  index: -1
+saihong
+  rotate: true
+  xy: 135, 2
+  size: 90, 13
+  orig: 94, 15
+  offset: 2, 1
+  index: -1
+shou
+  rotate: false
+  xy: 150, 69
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+yanbaiL
+  rotate: false
+  xy: 150, 41
+  size: 36, 26
+  orig: 40, 30
+  offset: 2, 3
+  index: -1
+yanbaiR
+  rotate: true
+  xy: 150, 3
+  size: 36, 26
+  orig: 40, 30
+  offset: 2, 3
+  index: -1
+yantongL
+  rotate: false
+  xy: 178, 23
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+yantongR
+  rotate: false
+  xy: 178, 23
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+yu
+  rotate: true
+  xy: 99, 9
+  size: 83, 34
+  orig: 83, 34
+  offset: 0, 0
+  index: -1

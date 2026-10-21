@@ -1,0 +1,62 @@
+
+mj_shuangtongke.png
+size: 482,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 360, 110
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+hdl_gd
+  rotate: false
+  xy: 216, 133
+  size: 141, 135
+  orig: 148, 148
+  offset: 2, 6
+  index: -1
+jjh_huabanA
+  rotate: false
+  xy: 199, 73
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+jjh_huabanB
+  rotate: false
+  xy: 360, 87
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+shuangtongke_CN
+  rotate: false
+  xy: 2, 12
+  size: 195, 78
+  orig: 195, 81
+  offset: 0, 1
+  index: -1
+shuangtongke_niao
+  rotate: false
+  xy: 216, 2
+  size: 142, 129
+  orig: 142, 131
+  offset: 0, 1
+  index: -1
+shuangtongke_shan
+  rotate: false
+  xy: 2, 92
+  size: 212, 176
+  orig: 214, 178
+  offset: 1, 1
+  index: -1
+wz_xin_xixian
+  rotate: false
+  xy: 359, 148
+  size: 121, 120
+  orig: 128, 128
+  offset: 4, 5
+  index: -1

@@ -1,0 +1,76 @@
+
+17shuiyimenglong.png
+size: 160,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 90, 96
+  orig: 92, 99
+  offset: 1, 1
+  index: -1
+hua
+  rotate: true
+  xy: 120, 4
+  size: 11, 9
+  orig: 13, 11
+  offset: 1, 1
+  index: -1
+meiL
+  rotate: false
+  xy: 129, 18
+  size: 14, 6
+  orig: 16, 8
+  offset: 1, 1
+  index: -1
+meiR
+  rotate: true
+  xy: 131, 3
+  size: 13, 5
+  orig: 15, 7
+  offset: 1, 1
+  index: -1
+yanL
+  rotate: true
+  xy: 100, 60
+  size: 32, 28
+  orig: 36, 31
+  offset: 2, 2
+  index: -1
+yanR
+  rotate: true
+  xy: 100, 26
+  size: 32, 28
+  orig: 36, 31
+  offset: 2, 2
+  index: -1
+yanbL
+  rotate: true
+  xy: 130, 60
+  size: 32, 28
+  orig: 36, 31
+  offset: 2, 2
+  index: -1
+yanbR
+  rotate: true
+  xy: 130, 26
+  size: 32, 28
+  orig: 36, 31
+  offset: 2, 2
+  index: -1
+z
+  rotate: true
+  xy: 100, 4
+  size: 11, 18
+  orig: 13, 20
+  offset: 1, 1
+  index: -1
+zui
+  rotate: false
+  xy: 100, 17
+  size: 27, 7
+  orig: 29, 9
+  offset: 1, 1
+  index: -1

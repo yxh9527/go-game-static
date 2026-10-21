@@ -1,0 +1,41 @@
+
+qiepai.png
+size: 322,93
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paibei
+  rotate: true
+  xy: 2, 11
+  size: 80, 116
+  orig: 83, 117
+  offset: 1, 1
+  index: -1
+paihouduL
+  rotate: false
+  xy: 171, 3
+  size: 49, 88
+  orig: 62, 92
+  offset: 6, 4
+  index: -1
+paihouduL2
+  rotate: false
+  xy: 222, 8
+  size: 48, 83
+  orig: 54, 84
+  offset: 3, 0
+  index: -1
+paihouduR
+  rotate: false
+  xy: 120, 2
+  size: 49, 89
+  orig: 62, 92
+  offset: 6, 3
+  index: -1
+paihouduR2
+  rotate: false
+  xy: 272, 8
+  size: 48, 83
+  orig: 54, 84
+  offset: 3, 0
+  index: -1

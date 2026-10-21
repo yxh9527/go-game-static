@@ -1,0 +1,48 @@
+
+21dzr_huanpai.png
+size: 416,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pai_D
+  rotate: true
+  xy: 293, 103
+  size: 81, 115
+  orig: 81, 115
+  offset: 0, 0
+  index: -1
+paibei_1
+  rotate: true
+  xy: 184, 2
+  size: 81, 114
+  orig: 81, 114
+  offset: 0, 0
+  index: -1
+paibei_2
+  rotate: true
+  xy: 300, 20
+  size: 81, 114
+  orig: 81, 114
+  offset: 0, 0
+  index: -1
+ph_f
+  rotate: false
+  xy: 2, 95
+  size: 180, 89
+  orig: 186, 99
+  offset: 3, 6
+  index: -1
+ph_f2
+  rotate: false
+  xy: 2, 16
+  size: 180, 77
+  orig: 186, 99
+  offset: 3, 6
+  index: -1
+ph_s
+  rotate: false
+  xy: 184, 85
+  size: 107, 99
+  orig: 107, 99
+  offset: 0, 0
+  index: -1

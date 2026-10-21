@@ -1,0 +1,34 @@
+
+br_fqzs_zhizhen.png
+size: 312,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 78, 33
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+zhizhen
+  rotate: false
+  xy: 228, 34
+  size: 82, 236
+  orig: 85, 240
+  offset: 2, 3
+  index: -1
+zhizhenbaoshi
+  rotate: true
+  xy: 2, 2
+  size: 67, 74
+  orig: 78, 86
+  offset: 5, 7
+  index: -1
+zhizhendi
+  rotate: false
+  xy: 2, 71
+  size: 224, 199
+  orig: 226, 201
+  offset: 1, 1
+  index: -1

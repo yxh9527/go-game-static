@@ -1,0 +1,153 @@
+
+jsmj_BThkfg.png
+size: 918,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 870, 33
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+hkfg_CN
+  rotate: false
+  xy: 409, 146
+  size: 284, 121
+  orig: 285, 122
+  offset: 0, 1
+  index: -1
+hkfg_di
+  rotate: false
+  xy: 2, 3
+  size: 405, 264
+  orig: 477, 264
+  offset: 27, 0
+  index: -1
+hkfg_hb1
+  rotate: true
+  xy: 892, 79
+  size: 18, 23
+  orig: 20, 26
+  offset: 2, 1
+  index: -1
+hkfg_huaL
+  rotate: false
+  xy: 811, 71
+  size: 79, 66
+  orig: 81, 68
+  offset: 1, 1
+  index: -1
+hkfg_huaR
+  rotate: true
+  xy: 695, 162
+  size: 105, 125
+  orig: 107, 126
+  offset: 1, 1
+  index: -1
+hkfg_huaban1
+  rotate: false
+  xy: 822, 139
+  size: 94, 128
+  orig: 95, 131
+  offset: 0, 1
+  index: -1
+hkfg_huaban2
+  rotate: false
+  xy: 811, 8
+  size: 57, 61
+  orig: 60, 63
+  offset: 1, 0
+  index: -1
+piaog_b00003
+  rotate: false
+  xy: 409, 35
+  size: 111, 36
+  orig: 113, 38
+  offset: 1, 1
+  index: -1
+piaog_b00004
+  rotate: false
+  xy: 558, 106
+  size: 127, 38
+  orig: 129, 41
+  offset: 1, 2
+  index: -1
+piaog_b00005
+  rotate: true
+  xy: 733, 15
+  size: 145, 38
+  orig: 149, 41
+  offset: 2, 2
+  index: -1
+piaog_b00006
+  rotate: false
+  xy: 409, 109
+  size: 147, 35
+  orig: 149, 38
+  offset: 1, 2
+  index: -1
+piaog_b00007
+  rotate: false
+  xy: 543, 70
+  size: 149, 34
+  orig: 151, 37
+  offset: 1, 1
+  index: -1
+piaog_b00008
+  rotate: true
+  xy: 773, 9
+  size: 151, 36
+  orig: 153, 39
+  offset: 1, 1
+  index: -1
+piaog_b00009
+  rotate: true
+  xy: 695, 7
+  size: 153, 36
+  orig: 156, 39
+  offset: 2, 1
+  index: -1
+piaog_b00010
+  rotate: false
+  xy: 409, 73
+  size: 132, 34
+  orig: 141, 36
+  offset: 8, 1
+  index: -1
+piaog_b00011
+  rotate: false
+  xy: 409, 4
+  size: 83, 29
+  orig: 89, 32
+  offset: 5, 1
+  index: -1
+piaog_b00012
+  rotate: true
+  xy: 892, 99
+  size: 38, 18
+  orig: 44, 24
+  offset: 5, 2
+  index: -1
+piaog_b00013
+  rotate: false
+  xy: 733, 2
+  size: 21, 11
+  orig: 26, 15
+  offset: 4, 2
+  index: -1
+piaog_b00014
+  rotate: false
+  xy: 756, 6
+  size: 4, 7
+  orig: 10, 13
+  offset: 4, 3
+  index: -1
+xgb
+  rotate: true
+  xy: 522, 9
+  size: 59, 58
+  orig: 70, 70
+  offset: 6, 4
+  index: -1

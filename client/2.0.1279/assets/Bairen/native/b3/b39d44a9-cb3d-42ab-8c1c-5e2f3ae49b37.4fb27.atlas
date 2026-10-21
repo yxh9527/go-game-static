@@ -1,0 +1,62 @@
+
+gk.png
+size: 552,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l_G1
+  rotate: false
+  xy: 306, 2
+  size: 121, 64
+  orig: 125, 66
+  offset: 2, 1
+  index: -1
+l_G2
+  rotate: false
+  xy: 182, 2
+  size: 122, 64
+  orig: 124, 66
+  offset: 1, 1
+  index: -1
+l_G3
+  rotate: false
+  xy: 429, 2
+  size: 121, 64
+  orig: 125, 66
+  offset: 2, 1
+  index: -1
+l_G4
+  rotate: false
+  xy: 2, 75
+  size: 178, 63
+  orig: 182, 67
+  offset: 2, 2
+  index: -1
+l_G5
+  rotate: false
+  xy: 2, 10
+  size: 178, 63
+  orig: 182, 67
+  offset: 2, 2
+  index: -1
+l_La
+  rotate: false
+  xy: 306, 68
+  size: 121, 70
+  orig: 125, 73
+  offset: 2, 2
+  index: -1
+l_Ra
+  rotate: false
+  xy: 429, 68
+  size: 121, 70
+  orig: 125, 73
+  offset: 2, 2
+  index: -1
+l_Rb
+  rotate: false
+  xy: 182, 68
+  size: 122, 70
+  orig: 124, 73
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,132 @@
+
+qiang.png
+size: 158,1041
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dankong
+  rotate: true
+  xy: 108, 150
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+dankong_yan_00000
+  rotate: true
+  xy: 2, 438
+  size: 44, 116
+  orig: 53, 126
+  offset: 4, 1
+  index: -1
+dankong_yan_00001
+  rotate: true
+  xy: 2, 297
+  size: 46, 108
+  orig: 57, 124
+  offset: 4, 1
+  index: -1
+dankong_yan_00002
+  rotate: true
+  xy: 2, 145
+  size: 45, 103
+  orig: 59, 120
+  offset: 4, 1
+  index: -1
+dankong_yan_00003
+  rotate: false
+  xy: 123, 420
+  size: 33, 101
+  orig: 56, 120
+  offset: 4, 1
+  index: -1
+dankong_yan_00004
+  rotate: false
+  xy: 120, 312
+  size: 36, 106
+  orig: 43, 114
+  offset: 5, 1
+  index: -1
+dankong_yan_00005
+  rotate: true
+  xy: 2, 484
+  size: 37, 119
+  orig: 46, 123
+  offset: 4, 1
+  index: -1
+dankong_yan_00006
+  rotate: true
+  xy: 2, 523
+  size: 38, 121
+  orig: 47, 128
+  offset: 4, 1
+  index: -1
+dankong_yan_00007
+  rotate: false
+  xy: 107, 49
+  size: 40, 99
+  orig: 50, 128
+  offset: 4, 2
+  index: -1
+dankong_yan_00008
+  rotate: false
+  xy: 112, 202
+  size: 44, 108
+  orig: 51, 115
+  offset: 3, 2
+  index: -1
+dankong_yan_00009
+  rotate: true
+  xy: 2, 392
+  size: 44, 116
+  orig: 55, 128
+  offset: 6, 3
+  index: -1
+dankong_yan_00010
+  rotate: true
+  xy: 2, 345
+  size: 45, 113
+  orig: 56, 126
+  offset: 6, 6
+  index: -1
+dankong_yan_00011
+  rotate: true
+  xy: 2, 192
+  size: 49, 104
+  orig: 57, 121
+  offset: 4, 9
+  index: -1
+dankong_yan_00012
+  rotate: true
+  xy: 2, 243
+  size: 52, 106
+  orig: 59, 120
+  offset: 4, 8
+  index: -1
+dankong_yan_00013
+  rotate: true
+  xy: 2, 90
+  size: 53, 101
+  orig: 61, 116
+  offset: 4, 9
+  index: -1
+dankong_yan_00014
+  rotate: false
+  xy: 2, 2
+  size: 52, 86
+  orig: 64, 111
+  offset: 5, 18
+  index: -1
+qiang
+  rotate: true
+  xy: 2, 563
+  size: 260, 141
+  orig: 270, 154
+  offset: 5, 6
+  index: -1
+qiangji
+  rotate: true
+  xy: 2, 825
+  size: 214, 154
+  orig: 214, 163
+  offset: 0, 0
+  index: -1

@@ -40,6 +40,13 @@
         console.log("webHallEarly 缓存 message", data.type, data);
     }
 
+    function peek() {
+        return {
+            openGame: cache.openGame,
+            changeType: cache.changeType,
+        };
+    }
+
     function take() {
         if (!listening) return null;
         listening = false;
@@ -53,7 +60,7 @@
         return taken;
     }
 
-    window.__webHallEarly = { take: take };
+    window.__webHallEarly = { take: take, peek: peek };
     window.addEventListener("message", onMessage);
     console.log("webHallEarly 已开始监听 postMessage");
 })();

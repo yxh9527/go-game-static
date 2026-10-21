@@ -1,0 +1,41 @@
+
+mj_yipaoduoxiang.png
+size: 314,214
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gp_hh
+  rotate: true
+  xy: 246, 127
+  size: 13, 19
+  orig: 25, 26
+  offset: 6, 4
+  index: -1
+yipaoduoxiang_CN
+  rotate: false
+  xy: 2, 127
+  size: 242, 85
+  orig: 250, 86
+  offset: 3, 0
+  index: -1
+yipaoduoxiang_bg
+  rotate: false
+  xy: 2, 2
+  size: 191, 123
+  orig: 206, 126
+  offset: 0, 0
+  index: -1
+yipaoduoxiang_zk
+  rotate: false
+  xy: 195, 28
+  size: 86, 97
+  orig: 86, 97
+  offset: 0, 0
+  index: -1
+yipaoduoxiang_zk2
+  rotate: true
+  xy: 246, 142
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+mj_haidipao.png
+size: 1405,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 1364, 29
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+hdk
+  rotate: false
+  xy: 1141, 67
+  size: 262, 70
+  orig: 265, 70
+  offset: 1, 0
+  index: -1
+hdkh
+  rotate: false
+  xy: 145, 4
+  size: 370, 133
+  orig: 388, 145
+  offset: 9, 6
+  index: -1
+hdl_gd
+  rotate: false
+  xy: 2, 2
+  size: 141, 135
+  orig: 148, 148
+  offset: 2, 6
+  index: -1
+hdp_CN
+  rotate: false
+  xy: 639, 36
+  size: 244, 101
+  orig: 245, 102
+  offset: 1, 1
+  index: -1
+hdp_f1
+  rotate: false
+  xy: 1283, 15
+  size: 79, 50
+  orig: 79, 50
+  offset: 0, 0
+  index: -1
+hdp_f2
+  rotate: false
+  xy: 669, 3
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+hdp_f3
+  rotate: false
+  xy: 639, 2
+  size: 28, 32
+  orig: 31, 34
+  offset: 2, 2
+  index: -1
+hdp_hl
+  rotate: false
+  xy: 885, 41
+  size: 254, 96
+  orig: 254, 96
+  offset: 0, 0
+  index: -1
+hdp_hs
+  rotate: false
+  xy: 885, 3
+  size: 396, 36
+  orig: 396, 36
+  offset: 0, 0
+  index: -1
+wz_xin_xixian
+  rotate: true
+  xy: 517, 16
+  size: 121, 120
+  orig: 128, 128
+  offset: 4, 5
+  index: -1

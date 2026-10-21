@@ -1,0 +1,55 @@
+
+mj_qinglong.png
+size: 410,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 372, 114
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+hdl_gd
+  rotate: false
+  xy: 157, 143
+  size: 141, 135
+  orig: 148, 148
+  offset: 2, 6
+  index: -1
+hunyaojiu_guang
+  rotate: true
+  xy: 294, 16
+  size: 125, 76
+  orig: 125, 87
+  offset: 0, 10
+  index: -1
+qinglong_CN
+  rotate: false
+  xy: 2, 7
+  size: 161, 90
+  orig: 163, 94
+  offset: 1, 2
+  index: -1
+qinglong_gu
+  rotate: false
+  xy: 2, 99
+  size: 153, 179
+  orig: 164, 180
+  offset: 3, 0
+  index: -1
+qinglong_longL
+  rotate: false
+  xy: 165, 2
+  size: 127, 139
+  orig: 137, 161
+  offset: 5, 11
+  index: -1
+qinglong_longR
+  rotate: false
+  xy: 300, 152
+  size: 95, 126
+  orig: 100, 133
+  offset: 0, 4
+  index: -1

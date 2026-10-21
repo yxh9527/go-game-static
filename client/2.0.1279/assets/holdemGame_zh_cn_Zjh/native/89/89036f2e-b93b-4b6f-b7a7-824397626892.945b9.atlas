@@ -1,0 +1,13 @@
+
+bi.png
+size: 136,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bi
+  rotate: false
+  xy: 1, 1
+  size: 133, 133
+  orig: 137, 137
+  offset: 2, 2
+  index: -1

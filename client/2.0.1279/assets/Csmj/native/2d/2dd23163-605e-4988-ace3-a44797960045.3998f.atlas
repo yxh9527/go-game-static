@@ -1,0 +1,83 @@
+
+mj_zhaniao.png
+size: 446,501
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 405, 463
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+tz_di
+  rotate: false
+  xy: 2, 313
+  size: 401, 186
+  orig: 462, 225
+  offset: 30, 20
+  index: -1
+tz_guangxian
+  rotate: false
+  xy: 2, 163
+  size: 367, 148
+  orig: 386, 148
+  offset: 7, 0
+  index: -1
+zn_CN
+  rotate: true
+  xy: 206, 2
+  size: 159, 101
+  orig: 160, 102
+  offset: 0, 1
+  index: -1
+zn_hs
+  rotate: false
+  xy: 2, 5
+  size: 202, 156
+  orig: 202, 156
+  offset: 0, 0
+  index: -1
+zn_niaoA1
+  rotate: false
+  xy: 309, 48
+  size: 130, 113
+  orig: 130, 113
+  offset: 0, 0
+  index: -1
+zn_niaoA2
+  rotate: false
+  xy: 371, 242
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+zn_niaoA3
+  rotate: true
+  xy: 371, 191
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+zn_niaoB1
+  rotate: true
+  xy: 405, 437
+  size: 24, 30
+  orig: 26, 32
+  offset: 2, 1
+  index: -1
+zn_niaoB2
+  rotate: true
+  xy: 405, 414
+  size: 21, 24
+  orig: 22, 25
+  offset: 0, 1
+  index: -1
+zn_niaoB3
+  rotate: false
+  xy: 405, 395
+  size: 23, 17
+  orig: 24, 19
+  offset: 0, 1
+  index: -1

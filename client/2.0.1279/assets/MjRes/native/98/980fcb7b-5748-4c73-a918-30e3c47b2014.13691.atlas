@@ -1,0 +1,97 @@
+
+jsmj_BThu.png
+size: 672,271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj_g_1
+  rotate: false
+  xy: 241, 2
+  size: 95, 90
+  orig: 100, 100
+  offset: 3, 5
+  index: -1
+bsks_di_x
+  rotate: false
+  xy: 245, 183
+  size: 200, 86
+  orig: 200, 88
+  offset: 0, 0
+  index: -1
+bt_dh di
+  rotate: false
+  xy: 447, 202
+  size: 208, 67
+  orig: 211, 67
+  offset: 1, 0
+  index: -1
+bt_dh gd
+  rotate: false
+  xy: 2, 21
+  size: 148, 147
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+bt_dh shan
+  rotate: false
+  xy: 2, 170
+  size: 241, 99
+  orig: 249, 110
+  offset: 6, 5
+  index: -1
+bt_dh_CN
+  rotate: true
+  xy: 152, 6
+  size: 162, 87
+  orig: 164, 88
+  offset: 1, 1
+  index: -1
+bt_th di
+  rotate: false
+  xy: 447, 133
+  size: 208, 67
+  orig: 211, 67
+  offset: 1, 0
+  index: -1
+bt_th he
+  rotate: false
+  xy: 404, 27
+  size: 143, 104
+  orig: 146, 106
+  offset: 2, 1
+  index: -1
+bt_th heyun
+  rotate: false
+  xy: 338, 10
+  size: 44, 22
+  orig: 46, 24
+  offset: 1, 1
+  index: -1
+bt_th_CN
+  rotate: false
+  xy: 245, 94
+  size: 157, 87
+  orig: 158, 88
+  offset: 0, 1
+  index: -1
+dian
+  rotate: false
+  xy: 404, 145
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+wz_xin_xixian
+  rotate: false
+  xy: 549, 11
+  size: 121, 120
+  orig: 128, 128
+  offset: 4, 5
+  index: -1
+xgb
+  rotate: false
+  xy: 338, 34
+  size: 59, 58
+  orig: 70, 70
+  offset: 6, 4
+  index: -1

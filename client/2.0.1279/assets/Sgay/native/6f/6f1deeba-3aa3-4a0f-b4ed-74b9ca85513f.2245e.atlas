@@ -1,0 +1,55 @@
+
+gh.png
+size: 380,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gh_00000
+  rotate: true
+  xy: 310, 99
+  size: 188, 67
+  orig: 194, 70
+  offset: 4, 2
+  index: -1
+gh_00001
+  rotate: true
+  xy: 239, 97
+  size: 190, 69
+  orig: 194, 70
+  offset: 3, 1
+  index: -1
+gh_00002
+  rotate: true
+  xy: 81, 81
+  size: 206, 77
+  orig: 210, 79
+  offset: 3, 1
+  index: -1
+gh_00003
+  rotate: true
+  xy: 1, 81
+  size: 206, 78
+  orig: 210, 79
+  offset: 2, 0
+  index: -1
+gh_00004
+  rotate: false
+  xy: 1, 1
+  size: 198, 78
+  orig: 202, 79
+  offset: 2, 0
+  index: -1
+gh_00005
+  rotate: true
+  xy: 160, 91
+  size: 196, 77
+  orig: 202, 79
+  offset: 3, 1
+  index: -1
+gh_00006
+  rotate: false
+  xy: 201, 14
+  size: 174, 75
+  orig: 175, 76
+  offset: 1, 0
+  index: -1

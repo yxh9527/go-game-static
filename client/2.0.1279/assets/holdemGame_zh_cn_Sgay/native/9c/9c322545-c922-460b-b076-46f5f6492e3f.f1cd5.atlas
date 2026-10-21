@@ -1,0 +1,13 @@
+
+bpsb.png
+size: 168,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bpsb2
+  rotate: false
+  xy: 1, 1
+  size: 165, 60
+  orig: 165, 62
+  offset: 0, 0
+  index: -1

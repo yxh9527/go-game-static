@@ -1,0 +1,27 @@
+
+xybx_x.png
+size: 118,297
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xybx_x
+  rotate: false
+  xy: 2, 2
+  size: 82, 76
+  orig: 82, 77
+  offset: 0, 1
+  index: -1
+xybx_x_gb
+  rotate: false
+  xy: 2, 179
+  size: 114, 116
+  orig: 145, 130
+  offset: 16, 14
+  index: -1
+xybx_x_gd
+  rotate: false
+  xy: 2, 80
+  size: 114, 97
+  orig: 116, 99
+  offset: 1, 0
+  index: -1

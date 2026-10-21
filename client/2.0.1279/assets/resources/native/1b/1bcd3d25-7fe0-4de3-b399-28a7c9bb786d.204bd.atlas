@@ -1,0 +1,90 @@
+
+07guzhang.png
+size: 203,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 3
+  size: 89, 94
+  orig: 93, 99
+  offset: 2, 2
+  index: -1
+meiL
+  rotate: true
+  xy: 182, 8
+  size: 19, 13
+  orig: 21, 15
+  offset: 1, 1
+  index: -1
+meiR
+  rotate: true
+  xy: 173, 5
+  size: 22, 7
+  orig: 24, 9
+  offset: 1, 1
+  index: -1
+shouL
+  rotate: false
+  xy: 98, 2
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+shouR
+  rotate: false
+  xy: 98, 48
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+shouyL
+  rotate: false
+  xy: 159, 60
+  size: 23, 32
+  orig: 27, 36
+  offset: 2, 2
+  index: -1
+shouyR
+  rotate: false
+  xy: 159, 29
+  size: 25, 29
+  orig: 30, 33
+  offset: 2, 1
+  index: -1
+yanbaiL
+  rotate: false
+  xy: 127, 56
+  size: 30, 36
+  orig: 34, 38
+  offset: 2, 1
+  index: -1
+yanbaiR
+  rotate: false
+  xy: 126, 10
+  size: 31, 36
+  orig: 34, 39
+  offset: 2, 2
+  index: -1
+yantongL
+  rotate: true
+  xy: 184, 75
+  size: 17, 16
+  orig: 19, 18
+  offset: 1, 1
+  index: -1
+yantongR
+  rotate: false
+  xy: 186, 57
+  size: 15, 16
+  orig: 17, 18
+  offset: 1, 1
+  index: -1
+zui
+  rotate: false
+  xy: 159, 2
+  size: 12, 25
+  orig: 14, 27
+  offset: 1, 1
+  index: -1

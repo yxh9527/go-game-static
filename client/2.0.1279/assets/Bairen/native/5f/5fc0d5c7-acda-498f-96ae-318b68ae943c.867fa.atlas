@@ -1,0 +1,41 @@
+
+kuang_jh.png
+size: 348,710
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k_jh_118x188
+  rotate: false
+  xy: 228, 192
+  size: 118, 188
+  orig: 118, 188
+  offset: 0, 0
+  index: -1
+k_jh_118x188y
+  rotate: false
+  xy: 228, 2
+  size: 118, 188
+  orig: 118, 188
+  offset: 0, 0
+  index: -1
+k_jh_358x224
+  rotate: true
+  xy: 2, 22
+  size: 358, 224
+  orig: 358, 224
+  offset: 0, 0
+  index: -1
+k_jh_yl
+  rotate: false
+  xy: 2, 382
+  size: 334, 162
+  orig: 334, 162
+  offset: 0, 0
+  index: -1
+k_jh_yr
+  rotate: false
+  xy: 2, 546
+  size: 334, 162
+  orig: 334, 162
+  offset: 0, 0
+  index: -1

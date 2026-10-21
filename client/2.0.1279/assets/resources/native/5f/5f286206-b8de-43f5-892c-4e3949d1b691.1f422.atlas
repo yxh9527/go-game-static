@@ -1,0 +1,62 @@
+
+xipai.png
+size: 320,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fk
+  rotate: true
+  xy: 173, 1
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+fk gai
+  rotate: true
+  xy: 247, 1
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+paiL
+  rotate: true
+  xy: 1, 58
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+paiLan
+  rotate: true
+  xy: 79, 58
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+paiR
+  rotate: true
+  xy: 157, 58
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+paiRan
+  rotate: true
+  xy: 235, 58
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+paihouduL
+  rotate: true
+  xy: 87, 2
+  size: 54, 84
+  orig: 54, 84
+  offset: 0, 0
+  index: -1
+paihouduR
+  rotate: true
+  xy: 1, 2
+  size: 54, 84
+  orig: 54, 84
+  offset: 0, 0
+  index: -1

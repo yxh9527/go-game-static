@@ -1,0 +1,27 @@
+
+cartoon07.png
+size: 233,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 153, 49
+  size: 88, 78
+  orig: 89, 78
+  offset: 1, 0
+  index: -1
+chi
+  rotate: false
+  xy: 153, 25
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+yuwang
+  rotate: false
+  xy: 2, 2
+  size: 149, 135
+  orig: 151, 137
+  offset: 1, 1
+  index: -1

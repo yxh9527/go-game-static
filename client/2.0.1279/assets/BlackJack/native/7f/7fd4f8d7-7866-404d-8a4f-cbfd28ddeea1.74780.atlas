@@ -1,0 +1,83 @@
+
+bjl_huanpai.png
+size: 1148,197
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bjlph_f
+  rotate: false
+  xy: 2, 2
+  size: 295, 193
+  orig: 295, 197
+  offset: 0, 4
+  index: -1
+bjlph_f2
+  rotate: false
+  xy: 299, 18
+  size: 275, 177
+  orig: 295, 197
+  offset: 20, 4
+  index: -1
+bjlph_s
+  rotate: false
+  xy: 687, 21
+  size: 109, 174
+  orig: 117, 176
+  offset: 0, 2
+  index: -1
+bjlph_s_2
+  rotate: false
+  xy: 576, 20
+  size: 109, 175
+  orig: 117, 176
+  offset: 0, 1
+  index: -1
+bjlph_x
+  rotate: false
+  xy: 798, 95
+  size: 116, 100
+  orig: 116, 101
+  offset: 0, 0
+  index: -1
+bjlph_x2
+  rotate: false
+  xy: 916, 106
+  size: 113, 89
+  orig: 116, 101
+  offset: 0, 0
+  index: -1
+pai_D
+  rotate: true
+  xy: 1031, 114
+  size: 81, 115
+  orig: 81, 115
+  offset: 0, 0
+  index: -1
+paibei_1
+  rotate: true
+  xy: 798, 12
+  size: 81, 114
+  orig: 81, 114
+  offset: 0, 0
+  index: -1
+paibei_2
+  rotate: true
+  xy: 916, 23
+  size: 81, 114
+  orig: 81, 114
+  offset: 0, 0
+  index: -1
+yinyinga
+  rotate: false
+  xy: 1032, 57
+  size: 105, 55
+  orig: 108, 56
+  offset: 1, 0
+  index: -1
+yinyingb
+  rotate: false
+  xy: 1032, 7
+  size: 101, 48
+  orig: 105, 50
+  offset: 3, 1
+  index: -1

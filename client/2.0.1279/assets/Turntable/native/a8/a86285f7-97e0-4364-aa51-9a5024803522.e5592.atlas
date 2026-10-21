@@ -1,0 +1,13 @@
+
+zhuanpan_B.png
+size: 352,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nnq
+  rotate: false
+  xy: 2, 2
+  size: 348, 348
+  orig: 348, 348
+  offset: 0, 0
+  index: -1

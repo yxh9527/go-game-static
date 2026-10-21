@@ -1,0 +1,13 @@
+
+lhd_kp.png
+size: 407,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kp_g_00000
+  rotate: false
+  xy: 2, 2
+  size: 403, 262
+  orig: 434, 262
+  offset: 13, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+br_slwh_b.png
+size: 269,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bguang_00000
+  rotate: false
+  xy: 2, 2
+  size: 28, 16
+  orig: 50, 50
+  offset: 8, 28
+  index: -1
+Bguang_00001
+  rotate: true
+  xy: 210, 22
+  size: 32, 21
+  orig: 50, 50
+  offset: 13, 24
+  index: -1
+Bguang_00002
+  rotate: true
+  xy: 233, 2
+  size: 22, 32
+  orig: 50, 50
+  offset: 24, 13
+  index: -1
+Bguang_00003
+  rotate: true
+  xy: 156, 47
+  size: 39, 34
+  orig: 50, 50
+  offset: 7, 6
+  index: -1
+Bguang_00004
+  rotate: false
+  xy: 232, 59
+  size: 35, 39
+  orig: 50, 50
+  offset: 11, 5
+  index: -1
+Bguang_00005
+  rotate: false
+  xy: 98, 11
+  size: 38, 36
+  orig: 50, 50
+  offset: 7, 5
+  index: -1
+Bguang_00006
+  rotate: false
+  xy: 70, 49
+  size: 41, 37
+  orig: 50, 50
+  offset: 3, 5
+  index: -1
+Bguang_00007
+  rotate: false
+  xy: 217, 100
+  size: 42, 38
+  orig: 50, 50
+  offset: 4, 5
+  index: -1
+Bguang_00008
+  rotate: false
+  xy: 174, 98
+  size: 41, 40
+  orig: 50, 50
+  offset: 4, 6
+  index: -1
+Bguang_00009
+  rotate: true
+  xy: 56, 12
+  size: 35, 40
+  orig: 50, 50
+  offset: 5, 5
+  index: -1
+Bguang_00010
+  rotate: false
+  xy: 113, 50
+  size: 41, 36
+  orig: 50, 50
+  offset: 4, 9
+  index: -1
+Bguang_00011
+  rotate: false
+  xy: 192, 56
+  size: 38, 40
+  orig: 50, 50
+  offset: 6, 5
+  index: -1
+Bguang_00012
+  rotate: true
+  xy: 138, 7
+  size: 38, 39
+  orig: 50, 50
+  offset: 8, 5
+  index: -1
+Bguang_00013
+  rotate: true
+  xy: 179, 6
+  size: 39, 29
+  orig: 50, 50
+  offset: 5, 6
+  index: -1
+Bguang_00014
+  rotate: false
+  xy: 233, 26
+  size: 30, 31
+  orig: 50, 50
+  offset: 8, 6
+  index: -1
+gqf
+  rotate: false
+  xy: 2, 72
+  size: 66, 66
+  orig: 68, 68
+  offset: 1, 1
+  index: -1
+slwh_a
+  rotate: false
+  xy: 70, 88
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+slwh_b
+  rotate: false
+  xy: 122, 88
+  size: 50, 50
+  orig: 52, 51
+  offset: 1, 0
+  index: -1
+slwh_c
+  rotate: false
+  xy: 2, 20
+  size: 52, 50
+  orig: 52, 52
+  offset: 0, 0
+  index: -1

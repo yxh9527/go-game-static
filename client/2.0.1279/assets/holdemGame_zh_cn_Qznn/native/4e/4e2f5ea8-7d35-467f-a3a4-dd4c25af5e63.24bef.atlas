@@ -1,0 +1,41 @@
+
+k.png
+size: 460,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lg
+  rotate: false
+  xy: 1, 1
+  size: 174, 124
+  orig: 174, 124
+  offset: 0, 0
+  index: -1
+lgg
+  rotate: false
+  xy: 336, 1
+  size: 87, 124
+  orig: 87, 124
+  offset: 0, 0
+  index: -1
+qipao
+  rotate: true
+  xy: 425, 89
+  size: 36, 34
+  orig: 42, 40
+  offset: 3, 3
+  index: -1
+qipaoniu
+  rotate: false
+  xy: 177, 23
+  size: 157, 102
+  orig: 163, 108
+  offset: 3, 2
+  index: -1
+z zuidapaixing
+  rotate: false
+  xy: 177, 1
+  size: 78, 20
+  orig: 78, 20
+  offset: 0, 0
+  index: -1

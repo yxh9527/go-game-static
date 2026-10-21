@@ -1,0 +1,62 @@
+
+br_mj_b.png
+size: 542,105
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gq_a
+  rotate: false
+  xy: 95, 11
+  size: 92, 92
+  orig: 100, 99
+  offset: 4, 4
+  index: -1
+gq_b
+  rotate: false
+  xy: 189, 12
+  size: 90, 91
+  orig: 100, 100
+  offset: 5, 5
+  index: -1
+gq_c
+  rotate: false
+  xy: 281, 12
+  size: 90, 91
+  orig: 100, 100
+  offset: 5, 5
+  index: -1
+gqf
+  rotate: false
+  xy: 373, 37
+  size: 66, 66
+  orig: 68, 68
+  offset: 1, 1
+  index: -1
+guangz
+  rotate: false
+  xy: 2, 2
+  size: 91, 101
+  orig: 150, 147
+  offset: 30, 22
+  index: -1
+nmj_a
+  rotate: false
+  xy: 492, 3
+  size: 48, 48
+  orig: 52, 52
+  offset: 2, 2
+  index: -1
+nmj_b
+  rotate: false
+  xy: 441, 53
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+nmj_c
+  rotate: false
+  xy: 441, 2
+  size: 49, 49
+  orig: 52, 52
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,48 @@
+
+ksbp.png
+size: 720,152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bipai
+  rotate: false
+  xy: 438, 3
+  size: 123, 57
+  orig: 123, 57
+  offset: 0, 0
+  index: -1
+di 1
+  rotate: false
+  xy: 1, 51
+  size: 367, 100
+  orig: 372, 102
+  offset: 0, 1
+  index: -1
+di 2
+  rotate: false
+  xy: 370, 62
+  size: 346, 89
+  orig: 360, 89
+  offset: 7, 0
+  index: -1
+gh
+  rotate: false
+  xy: 220, 4
+  size: 216, 45
+  orig: 217, 49
+  offset: 1, 2
+  index: -1
+gh g
+  rotate: false
+  xy: 1, 1
+  size: 217, 48
+  orig: 217, 49
+  offset: 0, 0
+  index: -1
+kaishi
+  rotate: false
+  xy: 563, 4
+  size: 116, 56
+  orig: 116, 56
+  offset: 0, 0
+  index: -1

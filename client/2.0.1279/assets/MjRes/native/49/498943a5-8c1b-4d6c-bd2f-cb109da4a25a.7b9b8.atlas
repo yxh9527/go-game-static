@@ -1,0 +1,48 @@
+
+jsmj_BTheju.png
+size: 184,519
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bsks_di_x
+  rotate: true
+  xy: 2, 2
+  size: 200, 86
+  orig: 200, 88
+  offset: 0, 0
+  index: -1
+bt_bgg
+  rotate: true
+  xy: 2, 327
+  size: 190, 147
+  orig: 190, 148
+  offset: 0, 0
+  index: -1
+bt_heju_CN
+  rotate: true
+  xy: 90, 39
+  size: 163, 89
+  orig: 164, 90
+  offset: 0, 1
+  index: -1
+dian
+  rotate: false
+  xy: 124, 228
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+wz_xin_xixian
+  rotate: true
+  xy: 2, 204
+  size: 121, 120
+  orig: 128, 128
+  offset: 4, 5
+  index: -1
+xgb
+  rotate: true
+  xy: 124, 266
+  size: 59, 58
+  orig: 70, 70
+  offset: 6, 4
+  index: -1

@@ -1,0 +1,69 @@
+
+mj_menqing.png
+size: 221,715
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 183, 455
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+guang2
+  rotate: true
+  xy: 2, 493
+  size: 220, 208
+  orig: 250, 250
+  offset: 22, 23
+  index: -1
+menqing_CN
+  rotate: false
+  xy: 2, 93
+  size: 161, 107
+  orig: 161, 108
+  offset: 0, 0
+  index: -1
+menqing_di
+  rotate: false
+  xy: 2, 2
+  size: 150, 89
+  orig: 163, 90
+  offset: 6, 0
+  index: -1
+menqing_jing
+  rotate: true
+  xy: 2, 202
+  size: 289, 179
+  orig: 290, 179
+  offset: 1, 0
+  index: -1
+menqing_p1
+  rotate: false
+  xy: 165, 87
+  size: 34, 24
+  orig: 34, 26
+  offset: 0, 2
+  index: -1
+menqing_p2
+  rotate: true
+  xy: 183, 314
+  size: 139, 35
+  orig: 139, 35
+  offset: 0, 0
+  index: -1
+menqing_p3
+  rotate: true
+  xy: 183, 173
+  size: 139, 35
+  orig: 139, 35
+  offset: 0, 0
+  index: -1
+menqing_yan
+  rotate: true
+  xy: 165, 113
+  size: 58, 47
+  orig: 61, 47
+  offset: 2, 0
+  index: -1

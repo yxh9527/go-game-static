@@ -1,0 +1,90 @@
+
+cartoon12.png
+size: 1482,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoa1
+  rotate: false
+  xy: 1324, 9
+  size: 86, 91
+  orig: 200, 200
+  offset: 66, 18
+  index: -1
+baoa2
+  rotate: false
+  xy: 586, 16
+  size: 160, 187
+  orig: 200, 200
+  offset: 34, 4
+  index: -1
+baoa3
+  rotate: false
+  xy: 405, 3
+  size: 179, 200
+  orig: 200, 200
+  offset: 19, 0
+  index: -1
+baoa4
+  rotate: false
+  xy: 2, 3
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+baoa5
+  rotate: true
+  xy: 204, 3
+  size: 200, 199
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+baob1
+  rotate: false
+  xy: 1041, 2
+  size: 34, 34
+  orig: 200, 200
+  offset: 87, 84
+  index: -1
+baob2
+  rotate: false
+  xy: 1324, 102
+  size: 105, 101
+  orig: 200, 200
+  offset: 55, 53
+  index: -1
+baob3
+  rotate: true
+  xy: 1041, 38
+  size: 165, 142
+  orig: 200, 200
+  offset: 33, 35
+  index: -1
+baob4
+  rotate: true
+  xy: 748, 11
+  size: 192, 146
+  orig: 200, 200
+  offset: 8, 30
+  index: -1
+baob5
+  rotate: true
+  xy: 896, 26
+  size: 177, 143
+  orig: 200, 200
+  offset: 14, 31
+  index: -1
+baob6
+  rotate: true
+  xy: 1185, 43
+  size: 160, 137
+  orig: 200, 200
+  offset: 21, 32
+  index: -1
+quantou
+  rotate: false
+  xy: 1412, 28
+  size: 68, 72
+  orig: 70, 76
+  offset: 1, 3
+  index: -1

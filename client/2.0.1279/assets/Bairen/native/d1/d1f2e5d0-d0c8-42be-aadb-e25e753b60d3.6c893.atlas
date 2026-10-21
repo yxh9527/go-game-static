@@ -1,0 +1,139 @@
+
+huok.png
+size: 1359,338
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huok_00001
+  rotate: true
+  xy: 1310, 200
+  size: 136, 36
+  orig: 146, 46
+  offset: 4, 4
+  index: -1
+huok_00002
+  rotate: true
+  xy: 1234, 173
+  size: 163, 74
+  orig: 171, 83
+  offset: 4, 5
+  index: -1
+huok_00003
+  rotate: true
+  xy: 1233, 6
+  size: 164, 124
+  orig: 171, 130
+  offset: 3, 4
+  index: -1
+huok_00004
+  rotate: true
+  xy: 927, 5
+  size: 165, 151
+  orig: 172, 159
+  offset: 3, 4
+  index: -1
+huok_00005
+  rotate: true
+  xy: 465, 171
+  size: 165, 152
+  orig: 172, 159
+  offset: 3, 4
+  index: -1
+huok_00006
+  rotate: true
+  xy: 465, 4
+  size: 165, 152
+  orig: 172, 159
+  offset: 3, 4
+  index: -1
+huok_00007
+  rotate: true
+  xy: 619, 171
+  size: 165, 152
+  orig: 172, 159
+  offset: 3, 4
+  index: -1
+huok_00008
+  rotate: true
+  xy: 773, 5
+  size: 164, 152
+  orig: 172, 158
+  offset: 3, 3
+  index: -1
+huok_00009
+  rotate: true
+  xy: 1081, 172
+  size: 164, 151
+  orig: 171, 158
+  offset: 3, 4
+  index: -1
+huok_00010
+  rotate: true
+  xy: 1080, 5
+  size: 165, 151
+  orig: 172, 159
+  offset: 3, 5
+  index: -1
+huok_00011
+  rotate: true
+  xy: 619, 4
+  size: 165, 152
+  orig: 172, 159
+  offset: 3, 4
+  index: -1
+huok_00012
+  rotate: true
+  xy: 773, 171
+  size: 165, 152
+  orig: 172, 159
+  offset: 3, 4
+  index: -1
+huok_00013
+  rotate: true
+  xy: 927, 172
+  size: 164, 152
+  orig: 172, 159
+  offset: 4, 4
+  index: -1
+huok_00014
+  rotate: true
+  xy: 2, 3
+  size: 165, 153
+  orig: 172, 159
+  offset: 4, 3
+  index: -1
+huok_00015
+  rotate: true
+  xy: 2, 170
+  size: 166, 153
+  orig: 172, 159
+  offset: 3, 3
+  index: -1
+huok_00016
+  rotate: true
+  xy: 157, 170
+  size: 166, 152
+  orig: 172, 159
+  offset: 3, 4
+  index: -1
+huok_00017
+  rotate: true
+  xy: 157, 2
+  size: 166, 152
+  orig: 172, 159
+  offset: 3, 4
+  index: -1
+huok_00018
+  rotate: true
+  xy: 311, 170
+  size: 166, 152
+  orig: 172, 159
+  offset: 3, 4
+  index: -1
+huok_00019
+  rotate: true
+  xy: 311, 2
+  size: 166, 152
+  orig: 172, 159
+  offset: 3, 4
+  index: -1

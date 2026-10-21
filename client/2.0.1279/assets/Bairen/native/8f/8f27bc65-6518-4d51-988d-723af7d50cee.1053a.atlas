@@ -1,0 +1,139 @@
+
+huoky.png
+size: 1752,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huoky_00001
+  rotate: false
+  xy: 1458, 23
+  size: 224, 62
+  orig: 246, 70
+  offset: 6, 4
+  index: -1
+huoky_00002
+  rotate: false
+  xy: 1458, 87
+  size: 286, 97
+  orig: 296, 109
+  offset: 5, 4
+  index: -1
+huoky_00003
+  rotate: false
+  xy: 586, 16
+  size: 289, 164
+  orig: 298, 176
+  offset: 5, 6
+  index: -1
+huoky_00004
+  rotate: false
+  xy: 877, 6
+  size: 289, 174
+  orig: 299, 183
+  offset: 6, 4
+  index: -1
+huoky_00005
+  rotate: false
+  xy: 2, 2
+  size: 288, 177
+  orig: 298, 185
+  offset: 5, 3
+  index: -1
+huoky_00006
+  rotate: false
+  xy: 587, 359
+  size: 288, 177
+  orig: 299, 185
+  offset: 5, 3
+  index: -1
+huoky_00007
+  rotate: false
+  xy: 295, 181
+  size: 289, 176
+  orig: 299, 185
+  offset: 4, 4
+  index: -1
+huoky_00008
+  rotate: false
+  xy: 292, 3
+  size: 289, 176
+  orig: 299, 184
+  offset: 4, 3
+  index: -1
+huoky_00009
+  rotate: false
+  xy: 878, 182
+  size: 288, 175
+  orig: 299, 184
+  offset: 5, 4
+  index: -1
+huoky_00010
+  rotate: false
+  xy: 1168, 7
+  size: 288, 174
+  orig: 299, 184
+  offset: 5, 5
+  index: -1
+huoky_00011
+  rotate: false
+  xy: 1459, 186
+  size: 288, 174
+  orig: 299, 185
+  offset: 5, 6
+  index: -1
+huoky_00012
+  rotate: false
+  xy: 877, 359
+  size: 288, 177
+  orig: 299, 185
+  offset: 6, 3
+  index: -1
+huoky_00013
+  rotate: false
+  xy: 1168, 183
+  size: 288, 176
+  orig: 300, 184
+  offset: 6, 3
+  index: -1
+huoky_00014
+  rotate: false
+  xy: 586, 182
+  size: 290, 175
+  orig: 299, 184
+  offset: 5, 4
+  index: -1
+huoky_00015
+  rotate: false
+  xy: 1167, 361
+  size: 290, 175
+  orig: 299, 185
+  offset: 5, 5
+  index: -1
+huoky_00016
+  rotate: false
+  xy: 2, 359
+  size: 291, 177
+  orig: 299, 185
+  offset: 5, 3
+  index: -1
+huoky_00017
+  rotate: false
+  xy: 2, 181
+  size: 291, 176
+  orig: 299, 184
+  offset: 5, 3
+  index: -1
+huoky_00018
+  rotate: false
+  xy: 1459, 362
+  size: 291, 174
+  orig: 299, 184
+  offset: 5, 5
+  index: -1
+huoky_00019
+  rotate: false
+  xy: 295, 359
+  size: 290, 177
+  orig: 299, 185
+  offset: 5, 3
+  index: -1

@@ -1,0 +1,118 @@
+
+mj_hhqd1.png
+size: 1527,657
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 100, 11
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+dian_d
+  rotate: false
+  xy: 26, 9
+  size: 38, 38
+  orig: 40, 40
+  offset: 1, 1
+  index: -1
+guang2
+  rotate: false
+  xy: 838, 11
+  size: 220, 208
+  orig: 250, 250
+  offset: 22, 23
+  index: -1
+guangcai
+  rotate: false
+  xy: 1140, 19
+  size: 98, 63
+  orig: 100, 100
+  offset: 1, 19
+  index: -1
+hhqd d
+  rotate: true
+  xy: 433, 187
+  size: 468, 403
+  orig: 506, 440
+  offset: 19, 18
+  index: -1
+hhqd_CN
+  rotate: false
+  xy: 433, 45
+  size: 339, 140
+  orig: 348, 149
+  offset: 5, 4
+  index: -1
+hhqd_denglA
+  rotate: false
+  xy: 66, 9
+  size: 32, 38
+  orig: 37, 42
+  offset: 1, 2
+  index: -1
+hhqd_denglB
+  rotate: false
+  xy: 138, 11
+  size: 26, 36
+  orig: 35, 42
+  offset: 7, 3
+  index: -1
+hhqd_denglC
+  rotate: false
+  xy: 166, 21
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+hhqd_guangxiao
+  rotate: true
+  xy: 2, 49
+  size: 606, 429
+  orig: 653, 452
+  offset: 22, 1
+  index: -1
+hhqd_he1
+  rotate: true
+  xy: 1060, 2
+  size: 80, 78
+  orig: 80, 78
+  offset: 0, 0
+  index: -1
+hhqd_he2
+  rotate: false
+  xy: 774, 60
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+hhqd_he3
+  rotate: false
+  xy: 2, 6
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+hhqd_huajuan
+  rotate: false
+  xy: 838, 221
+  size: 687, 434
+  orig: 687, 436
+  offset: 0, 2
+  index: -1
+hhqd_taiyang
+  rotate: true
+  xy: 774, 127
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 1060, 84
+  size: 316, 135
+  orig: 329, 137
+  offset: 13, 0
+  index: -1

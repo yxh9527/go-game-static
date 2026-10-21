@@ -1,0 +1,34 @@
+
+mj_hupai.png
+size: 274,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 104, 11
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+gq3
+  rotate: false
+  xy: 176, 29
+  size: 96, 102
+  orig: 120, 120
+  offset: 21, 15
+  index: -1
+guangzhao
+  rotate: false
+  xy: 2, 2
+  size: 100, 45
+  orig: 100, 50
+  offset: 0, 4
+  index: -1
+sg2
+  rotate: true
+  xy: 2, 49
+  size: 82, 172
+  orig: 100, 200
+  offset: 9, 14
+  index: -1

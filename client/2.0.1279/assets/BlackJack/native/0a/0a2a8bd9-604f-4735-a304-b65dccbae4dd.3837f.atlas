@@ -1,0 +1,27 @@
+
+WINTIELOSE.png
+size: 306,43
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LOSE
+  rotate: false
+  xy: 2, 2
+  size: 116, 39
+  orig: 118, 39
+  offset: 1, 0
+  index: -1
+TIE
+  rotate: false
+  xy: 224, 2
+  size: 80, 39
+  orig: 83, 40
+  offset: 1, 1
+  index: -1
+WIN
+  rotate: false
+  xy: 120, 3
+  size: 102, 38
+  orig: 106, 39
+  offset: 2, 1
+  index: -1

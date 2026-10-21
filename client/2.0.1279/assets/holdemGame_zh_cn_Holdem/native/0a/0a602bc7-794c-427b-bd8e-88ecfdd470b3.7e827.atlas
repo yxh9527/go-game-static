@@ -1,0 +1,174 @@
+
+baopai.png
+size: 1118,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+VFX_10/baopai_fire/vfx10_00
+  rotate: true
+  xy: 1044, 105
+  size: 70, 71
+  orig: 125, 125
+  offset: 27, 29
+  index: -1
+VFX_10/baopai_fire/vfx10_01
+  rotate: false
+  xy: 1037, 177
+  size: 79, 80
+  orig: 125, 125
+  offset: 23, 24
+  index: -1
+VFX_10/baopai_fire/vfx10_02
+  rotate: false
+  xy: 952, 51
+  size: 90, 95
+  orig: 125, 125
+  offset: 17, 16
+  index: -1
+VFX_10/baopai_fire/vfx10_03
+  rotate: false
+  xy: 856, 45
+  size: 94, 101
+  orig: 125, 125
+  offset: 15, 13
+  index: -1
+VFX_10/baopai_fire/vfx10_04
+  rotate: false
+  xy: 746, 146
+  size: 105, 111
+  orig: 125, 125
+  offset: 10, 9
+  index: -1
+VFX_10/baopai_fire/vfx10_05
+  rotate: false
+  xy: 744, 21
+  size: 110, 117
+  orig: 125, 125
+  offset: 7, 6
+  index: -1
+VFX_10/baopai_fire/vfx10_06
+  rotate: false
+  xy: 508, 6
+  size: 119, 124
+  orig: 125, 125
+  offset: 3, 1
+  index: -1
+VFX_10/baopai_fire/vfx10_07
+  rotate: false
+  xy: 383, 5
+  size: 123, 125
+  orig: 125, 125
+  offset: 1, 0
+  index: -1
+VFX_10/baopai_fire/vfx10_08
+  rotate: false
+  xy: 2, 132
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+VFX_10/baopai_fire/vfx10_09
+  rotate: false
+  xy: 2, 5
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+VFX_10/baopai_fire/vfx10_10
+  rotate: false
+  xy: 129, 132
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+VFX_10/baopai_fire/vfx10_11
+  rotate: false
+  xy: 129, 5
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+VFX_10/baopai_fire/vfx10_12
+  rotate: false
+  xy: 256, 132
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+VFX_10/baopai_fire/vfx10_13
+  rotate: false
+  xy: 256, 5
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+VFX_10/baopai_fire/vfx10_14
+  rotate: true
+  xy: 383, 132
+  size: 125, 124
+  orig: 125, 125
+  offset: 0, 1
+  index: -1
+VFX_10/baopai_fire/vfx10_15
+  rotate: false
+  xy: 509, 138
+  size: 118, 119
+  orig: 125, 125
+  offset: 0, 6
+  index: -1
+VFX_10/baopai_fire/vfx10_16
+  rotate: false
+  xy: 629, 140
+  size: 115, 117
+  orig: 125, 125
+  offset: 0, 8
+  index: -1
+VFX_10/baopai_fire/vfx10_17
+  rotate: true
+  xy: 629, 24
+  size: 114, 113
+  orig: 125, 125
+  offset: 0, 12
+  index: -1
+VFX_10/baopai_fire/vfx10_18
+  rotate: true
+  xy: 853, 148
+  size: 109, 98
+  orig: 125, 125
+  offset: 7, 27
+  index: -1
+VFX_10/baopai_fire/vfx10_19
+  rotate: true
+  xy: 953, 168
+  size: 89, 82
+  orig: 125, 125
+  offset: 28, 26
+  index: -1
+VFX_10/baopai_fire/vfx10_20
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+VFX_10/baopai_fire/vfx10_21
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+VFX_10/baopai_fire/vfx10_22
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+VFX_10/baopai_text_CN
+  rotate: false
+  xy: 856, 8
+  size: 75, 35
+  orig: 77, 35
+  offset: 0, 0
+  index: -1

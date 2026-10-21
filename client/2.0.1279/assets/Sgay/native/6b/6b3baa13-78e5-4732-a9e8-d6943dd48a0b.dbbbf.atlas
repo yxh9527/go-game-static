@@ -1,0 +1,90 @@
+
+pai.png
+size: 1760,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gk_00
+  rotate: false
+  xy: 355, 12
+  size: 144, 106
+  orig: 199, 175
+  offset: 27, 34
+  index: -1
+gk_01
+  rotate: false
+  xy: 788, 4
+  size: 140, 114
+  orig: 197, 177
+  offset: 28, 33
+  index: -1
+gk_02
+  rotate: false
+  xy: 1072, 1
+  size: 135, 117
+  orig: 193, 179
+  offset: 27, 32
+  index: -1
+gk_03
+  rotate: false
+  xy: 1492, 3
+  size: 132, 115
+  orig: 191, 180
+  offset: 29, 33
+  index: -1
+gk_04
+  rotate: false
+  xy: 501, 9
+  size: 142, 109
+  orig: 197, 176
+  offset: 27, 33
+  index: -1
+gk_05
+  rotate: false
+  xy: 1346, 14
+  size: 144, 104
+  orig: 199, 173
+  offset: 27, 35
+  index: -1
+gk_06
+  rotate: false
+  xy: 930, 4
+  size: 140, 114
+  orig: 197, 178
+  offset: 29, 31
+  index: -1
+gk_07
+  rotate: false
+  xy: 1209, 1
+  size: 135, 117
+  orig: 194, 180
+  offset: 31, 31
+  index: -1
+gk_08
+  rotate: false
+  xy: 1626, 3
+  size: 132, 115
+  orig: 191, 179
+  offset: 29, 32
+  index: -1
+gk_09
+  rotate: false
+  xy: 645, 9
+  size: 141, 109
+  orig: 197, 176
+  offset: 29, 34
+  index: -1
+paiba
+  rotate: false
+  xy: 1, 14
+  size: 175, 104
+  orig: 175, 104
+  offset: 0, 0
+  index: -1
+paibb
+  rotate: false
+  xy: 178, 14
+  size: 175, 104
+  orig: 175, 104
+  offset: 0, 0
+  index: -1

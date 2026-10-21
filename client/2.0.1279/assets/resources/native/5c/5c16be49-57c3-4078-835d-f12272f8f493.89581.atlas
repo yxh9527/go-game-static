@@ -1,0 +1,34 @@
+
+on_off.png
+size: 148,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g an
+  rotate: false
+  xy: 90, 53
+  size: 54, 54
+  orig: 55, 56
+  offset: 1, 1
+  index: -1
+g di
+  rotate: false
+  xy: 1, 57
+  size: 87, 50
+  orig: 87, 50
+  offset: 0, 0
+  index: -1
+k an
+  rotate: false
+  xy: 1, 3
+  size: 52, 52
+  orig: 54, 53
+  offset: 0, 1
+  index: -1
+k di
+  rotate: false
+  xy: 55, 1
+  size: 87, 50
+  orig: 87, 50
+  offset: 0, 0
+  index: -1

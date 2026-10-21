@@ -1,0 +1,41 @@
+
+cartoon11.png
+size: 85,70
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiubei
+  rotate: true
+  xy: 2, 2
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+pao1
+  rotate: false
+  xy: 75, 50
+  size: 7, 8
+  orig: 11, 10
+  offset: 1, 1
+  index: -1
+pao2
+  rotate: true
+  xy: 75, 42
+  size: 6, 5
+  orig: 8, 8
+  offset: 1, 2
+  index: -1
+pao4
+  rotate: true
+  xy: 75, 42
+  size: 6, 5
+  orig: 8, 8
+  offset: 1, 2
+  index: -1
+pao3
+  rotate: false
+  xy: 75, 60
+  size: 8, 8
+  orig: 11, 10
+  offset: 1, 1
+  index: -1

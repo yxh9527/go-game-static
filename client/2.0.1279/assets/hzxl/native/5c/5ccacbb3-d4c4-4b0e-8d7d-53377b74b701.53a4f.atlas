@@ -1,0 +1,83 @@
+
+mj_ersesijiegao.png
+size: 1152,787
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 542, 184
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+dian_d
+  rotate: false
+  xy: 502, 182
+  size: 38, 38
+  orig: 40, 40
+  offset: 1, 1
+  index: -1
+ersesijiegao_CN
+  rotate: false
+  xy: 715, 46
+  size: 395, 131
+  orig: 398, 135
+  offset: 2, 3
+  index: -1
+ersesijiegao_hua
+  rotate: false
+  xy: 2, 222
+  size: 617, 563
+  orig: 621, 584
+  offset: 2, 15
+  index: -1
+ersesijiegao_niao
+  rotate: true
+  xy: 1052, 547
+  size: 111, 91
+  orig: 112, 111
+  offset: 1, 12
+  index: -1
+ersesijiegao_yue
+  rotate: true
+  xy: 1052, 660
+  size: 125, 98
+  orig: 125, 99
+  offset: 0, 0
+  index: -1
+ersesijiegao_zhu
+  rotate: true
+  xy: 502, 7
+  size: 170, 211
+  orig: 172, 211
+  offset: 1, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 280, 12
+  size: 220, 208
+  orig: 250, 250
+  offset: 22, 23
+  index: -1
+guangcai
+  rotate: true
+  xy: 1052, 447
+  size: 98, 63
+  orig: 100, 100
+  offset: 1, 19
+  index: -1
+hhqd_guangxiao
+  rotate: true
+  xy: 621, 179
+  size: 606, 429
+  orig: 653, 452
+  offset: 22, 1
+  index: -1
+yisesijiegao_di
+  rotate: false
+  xy: 2, 2
+  size: 276, 218
+  orig: 300, 238
+  offset: 12, 10
+  index: -1

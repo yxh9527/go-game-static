@@ -1,0 +1,90 @@
+
+mj_jiejiegao.png
+size: 499,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 405, 8
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+jjg gao_CN
+  rotate: false
+  xy: 416, 166
+  size: 81, 112
+  orig: 88, 115
+  offset: 3, 1
+  index: -1
+jjg jie1_CN
+  rotate: false
+  xy: 414, 46
+  size: 80, 118
+  orig: 83, 122
+  offset: 1, 2
+  index: -1
+jjg jie2_CN
+  rotate: false
+  xy: 341, 57
+  size: 71, 108
+  orig: 71, 112
+  offset: 0, 2
+  index: -1
+jjg_k
+  rotate: false
+  xy: 2, 75
+  size: 315, 90
+  orig: 320, 90
+  offset: 1, 0
+  index: -1
+jjg_piao
+  rotate: false
+  xy: 2, 167
+  size: 412, 111
+  orig: 415, 111
+  offset: 3, 0
+  index: -1
+jjg_shan
+  rotate: false
+  xy: 2, 2
+  size: 94, 71
+  orig: 98, 71
+  offset: 4, 0
+  index: -1
+jjg_zhuyeA
+  rotate: false
+  xy: 98, 6
+  size: 69, 67
+  orig: 69, 67
+  offset: 0, 0
+  index: -1
+jjg_zhuyeB
+  rotate: true
+  xy: 443, 10
+  size: 34, 35
+  orig: 48, 40
+  offset: 8, 2
+  index: -1
+jjg_zhuzi1
+  rotate: false
+  xy: 319, 11
+  size: 20, 154
+  orig: 20, 154
+  offset: 0, 0
+  index: -1
+jjg_zhuzi2
+  rotate: true
+  xy: 169, 8
+  size: 65, 115
+  orig: 65, 115
+  offset: 0, 0
+  index: -1
+jjg_zhuzi3
+  rotate: false
+  xy: 341, 4
+  size: 62, 51
+  orig: 62, 51
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+zmt_sx.png
+size: 992,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jbtx
+  rotate: false
+  xy: 767, 42
+  size: 148, 147
+  orig: 152, 152
+  offset: 2, 3
+  index: -1
+sxbaozi
+  rotate: false
+  xy: 1, 1
+  size: 297, 70
+  orig: 297, 70
+  offset: 0, 0
+  index: -1
+sxshunjin
+  rotate: false
+  xy: 300, 1
+  size: 297, 70
+  orig: 297, 70
+  offset: 0, 0
+  index: -1
+tiaoa
+  rotate: false
+  xy: 1, 73
+  size: 764, 116
+  orig: 764, 120
+  offset: 0, 2
+  index: -1
+tiaob
+  rotate: false
+  xy: 1, 191
+  size: 990, 87
+  orig: 1071, 124
+  offset: 23, 15
+  index: -1

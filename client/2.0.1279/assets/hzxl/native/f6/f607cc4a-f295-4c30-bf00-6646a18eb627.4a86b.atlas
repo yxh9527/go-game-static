@@ -1,0 +1,62 @@
+
+mj_yigen.png
+size: 680,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 356, 29
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+hdl_gd
+  rotate: false
+  xy: 310, 67
+  size: 141, 135
+  orig: 148, 148
+  offset: 2, 6
+  index: -1
+wz_xin_xixian
+  rotate: false
+  xy: 453, 82
+  size: 121, 120
+  orig: 128, 128
+  offset: 4, 5
+  index: -1
+xingg
+  rotate: false
+  xy: 310, 21
+  size: 44, 44
+  orig: 50, 50
+  offset: 3, 3
+  index: -1
+yigen_CN
+  rotate: false
+  xy: 453, 2
+  size: 141, 78
+  orig: 141, 78
+  offset: 0, 0
+  index: -1
+yigen_k 2
+  rotate: true
+  xy: 596, 4
+  size: 89, 82
+  orig: 100, 95
+  offset: 4, 8
+  index: -1
+yigen_k 3
+  rotate: false
+  xy: 576, 95
+  size: 102, 107
+  orig: 120, 120
+  offset: 6, 4
+  index: -1
+yigen_k 4
+  rotate: false
+  xy: 2, 23
+  size: 306, 179
+  orig: 307, 180
+  offset: 0, 1
+  index: -1

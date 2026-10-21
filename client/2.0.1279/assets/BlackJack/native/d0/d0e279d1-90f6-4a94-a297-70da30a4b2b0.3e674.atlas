@@ -1,0 +1,272 @@
+
+21_huok.png
+size: 1153,1031
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huok_00001
+  rotate: false
+  xy: 165, 8
+  size: 129, 23
+  orig: 133, 27
+  offset: 3, 2
+  index: -1
+huok_00002
+  rotate: false
+  xy: 377, 65
+  size: 158, 68
+  orig: 161, 84
+  offset: 1, 13
+  index: -1
+huok_00003
+  rotate: false
+  xy: 2, 5
+  size: 161, 115
+  orig: 167, 124
+  offset: 2, 6
+  index: -1
+huok_00004
+  rotate: false
+  xy: 987, 210
+  size: 160, 161
+  orig: 166, 167
+  offset: 2, 2
+  index: -1
+huok_00005
+  rotate: false
+  xy: 824, 207
+  size: 161, 161
+  orig: 164, 168
+  offset: 2, 4
+  index: -1
+huok_00006
+  rotate: false
+  xy: 987, 870
+  size: 164, 159
+  orig: 167, 166
+  offset: 2, 4
+  index: -1
+huok_00007
+  rotate: false
+  xy: 812, 370
+  size: 165, 159
+  orig: 170, 163
+  offset: 3, 2
+  index: -1
+huok_00008
+  rotate: true
+  xy: 656, 195
+  size: 173, 166
+  orig: 176, 170
+  offset: 2, 2
+  index: -1
+huok_00009
+  rotate: true
+  xy: 761, 21
+  size: 172, 164
+  orig: 176, 170
+  offset: 3, 3
+  index: -1
+huok_00010
+  rotate: true
+  xy: 654, 697
+  size: 164, 163
+  orig: 167, 168
+  offset: 2, 3
+  index: -1
+huok_00011
+  rotate: false
+  xy: 982, 702
+  size: 160, 163
+  orig: 166, 168
+  offset: 2, 2
+  index: -1
+huok_00012
+  rotate: false
+  xy: 927, 42
+  size: 159, 163
+  orig: 165, 167
+  offset: 3, 2
+  index: -1
+huok_00013
+  rotate: false
+  xy: 660, 866
+  size: 162, 163
+  orig: 165, 174
+  offset: 2, 9
+  index: -1
+huok_00014
+  rotate: true
+  xy: 975, 536
+  size: 162, 161
+  orig: 165, 172
+  offset: 2, 8
+  index: -1
+huok_00015
+  rotate: false
+  xy: 812, 531
+  size: 161, 164
+  orig: 171, 167
+  offset: 3, 1
+  index: -1
+huok_00016
+  rotate: false
+  xy: 819, 700
+  size: 161, 164
+  orig: 173, 168
+  offset: 4, 2
+  index: -1
+huok_00017
+  rotate: true
+  xy: 496, 863
+  size: 166, 162
+  orig: 172, 166
+  offset: 3, 1
+  index: -1
+huok_00018
+  rotate: false
+  xy: 979, 373
+  size: 161, 161
+  orig: 170, 166
+  offset: 2, 2
+  index: -1
+huok_00019
+  rotate: false
+  xy: 824, 867
+  size: 161, 162
+  orig: 164, 166
+  offset: 2, 2
+  index: -1
+huoky_00001
+  rotate: false
+  xy: 377, 27
+  size: 138, 36
+  orig: 148, 41
+  offset: 8, 2
+  index: -1
+huoky_00002
+  rotate: false
+  xy: 165, 33
+  size: 210, 87
+  orig: 218, 93
+  offset: 2, 2
+  index: -1
+huoky_00003
+  rotate: false
+  xy: 537, 2
+  size: 222, 140
+  orig: 226, 145
+  offset: 3, 2
+  index: -1
+huoky_00004
+  rotate: true
+  xy: 168, 135
+  size: 220, 160
+  orig: 226, 167
+  offset: 4, 3
+  index: -1
+huoky_00005
+  rotate: true
+  xy: 494, 591
+  size: 219, 158
+  orig: 222, 170
+  offset: 2, 7
+  index: -1
+huoky_00006
+  rotate: true
+  xy: 492, 144
+  size: 215, 162
+  orig: 227, 179
+  offset: 2, 13
+  index: -1
+huoky_00007
+  rotate: true
+  xy: 168, 357
+  size: 222, 161
+  orig: 232, 168
+  offset: 3, 3
+  index: -1
+huoky_00008
+  rotate: true
+  xy: 2, 791
+  size: 238, 161
+  orig: 242, 172
+  offset: 3, 7
+  index: -1
+huoky_00009
+  rotate: true
+  xy: 2, 564
+  size: 225, 163
+  orig: 240, 168
+  offset: 2, 2
+  index: -1
+huoky_00010
+  rotate: true
+  xy: 165, 806
+  size: 223, 164
+  orig: 229, 170
+  offset: 4, 3
+  index: -1
+huoky_00011
+  rotate: true
+  xy: 331, 812
+  size: 217, 163
+  orig: 223, 168
+  offset: 4, 2
+  index: -1
+huoky_00012
+  rotate: true
+  xy: 2, 122
+  size: 218, 164
+  orig: 223, 171
+  offset: 4, 2
+  index: -1
+huoky_00013
+  rotate: true
+  xy: 2, 342
+  size: 220, 164
+  orig: 227, 170
+  offset: 3, 3
+  index: -1
+huoky_00014
+  rotate: true
+  xy: 167, 581
+  size: 223, 161
+  orig: 225, 166
+  offset: 1, 2
+  index: -1
+huoky_00015
+  rotate: true
+  xy: 331, 361
+  size: 221, 159
+  orig: 225, 168
+  offset: 3, 5
+  index: -1
+huoky_00016
+  rotate: true
+  xy: 330, 584
+  size: 220, 162
+  orig: 225, 170
+  offset: 3, 3
+  index: -1
+huoky_00017
+  rotate: true
+  xy: 653, 370
+  size: 219, 157
+  orig: 233, 169
+  offset: 6, 8
+  index: -1
+huoky_00018
+  rotate: true
+  xy: 330, 135
+  size: 220, 160
+  orig: 225, 168
+  offset: 3, 6
+  index: -1
+huoky_00019
+  rotate: true
+  xy: 492, 361
+  size: 221, 159
+  orig: 226, 166
+  offset: 3, 3
+  index: -1

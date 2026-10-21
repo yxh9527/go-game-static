@@ -1,0 +1,90 @@
+
+br_by_b.png
+size: 162,314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+by_a
+  rotate: false
+  xy: 2, 55
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+by_b
+  rotate: false
+  xy: 56, 9
+  size: 52, 51
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+by_c
+  rotate: false
+  xy: 2, 2
+  size: 52, 51
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+guangzhuan_00001
+  rotate: false
+  xy: 110, 11
+  size: 50, 49
+  orig: 100, 100
+  offset: 33, 22
+  index: -1
+guangzhuan_00002
+  rotate: true
+  xy: 76, 172
+  size: 60, 62
+  orig: 100, 100
+  offset: 25, 19
+  index: -1
+guangzhuan_00003
+  rotate: false
+  xy: 2, 164
+  size: 72, 69
+  orig: 100, 100
+  offset: 16, 16
+  index: -1
+guangzhuan_00004
+  rotate: false
+  xy: 83, 234
+  size: 76, 78
+  orig: 100, 100
+  offset: 14, 10
+  index: -1
+guangzhuan_00005
+  rotate: true
+  xy: 2, 235
+  size: 77, 79
+  orig: 100, 100
+  offset: 15, 9
+  index: -1
+guangzhuan_00006
+  rotate: false
+  xy: 114, 67
+  size: 38, 48
+  orig: 100, 100
+  offset: 14, 37
+  index: -1
+paopaoa
+  rotate: true
+  xy: 76, 117
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+paopaob
+  rotate: true
+  xy: 2, 109
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+paopaoc
+  rotate: true
+  xy: 58, 62
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1

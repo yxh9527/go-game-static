@@ -1,0 +1,55 @@
+
+huanpai.png
+size: 122,534
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paibei_1
+  rotate: true
+  xy: 2, 168
+  size: 81, 114
+  orig: 81, 114
+  offset: 0, 0
+  index: -1
+paibei_2
+  rotate: true
+  xy: 2, 85
+  size: 81, 114
+  orig: 81, 114
+  offset: 0, 0
+  index: -1
+paibei_b
+  rotate: true
+  xy: 2, 2
+  size: 81, 114
+  orig: 81, 114
+  offset: 0, 0
+  index: -1
+ph_f
+  rotate: true
+  xy: 2, 352
+  size: 180, 89
+  orig: 186, 99
+  offset: 3, 6
+  index: -1
+ph_s
+  rotate: false
+  xy: 2, 251
+  size: 107, 99
+  orig: 107, 99
+  offset: 0, 0
+  index: -1
+zx1
+  rotate: true
+  xy: 93, 390
+  size: 70, 27
+  orig: 70, 27
+  offset: 0, 0
+  index: -1
+zx2
+  rotate: true
+  xy: 93, 462
+  size: 70, 27
+  orig: 70, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,230 @@
+
+Game Start.png
+size: 1772,788
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hailang_00001
+  rotate: false
+  xy: 1345, 1
+  size: 148, 104
+  orig: 148, 104
+  offset: 0, 0
+  index: -1
+hailang_00002
+  rotate: false
+  xy: 1345, 107
+  size: 190, 189
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+hailang_00003
+  rotate: false
+  xy: 1537, 105
+  size: 190, 213
+  orig: 190, 213
+  offset: 0, 0
+  index: -1
+hailang_00004
+  rotate: false
+  xy: 1537, 320
+  size: 190, 227
+  orig: 190, 228
+  offset: 0, 0
+  index: -1
+hailang_00005
+  rotate: false
+  xy: 1537, 549
+  size: 190, 235
+  orig: 190, 235
+  offset: 0, 0
+  index: -1
+hailang_00006
+  rotate: false
+  xy: 1345, 298
+  size: 190, 238
+  orig: 190, 239
+  offset: 0, 0
+  index: -1
+hailang_00007
+  rotate: false
+  xy: 1153, 241
+  size: 190, 269
+  orig: 190, 269
+  offset: 0, 0
+  index: -1
+hailang_00008
+  rotate: false
+  xy: 961, 192
+  size: 190, 294
+  orig: 190, 295
+  offset: 0, 0
+  index: -1
+hailang_00009
+  rotate: false
+  xy: 385, 143
+  size: 190, 319
+  orig: 190, 319
+  offset: 0, 0
+  index: -1
+hailang_00010
+  rotate: false
+  xy: 1, 444
+  size: 190, 340
+  orig: 190, 341
+  offset: 0, 0
+  index: -1
+hailang_00011
+  rotate: false
+  xy: 577, 466
+  size: 190, 318
+  orig: 190, 319
+  offset: 0, 0
+  index: -1
+hailang_00012
+  rotate: false
+  xy: 193, 135
+  size: 190, 323
+  orig: 190, 324
+  offset: 0, 0
+  index: -1
+hailang_00013
+  rotate: false
+  xy: 193, 460
+  size: 190, 324
+  orig: 190, 325
+  offset: 0, 0
+  index: -1
+hailang_00014
+  rotate: false
+  xy: 385, 464
+  size: 190, 320
+  orig: 190, 320
+  offset: 0, 0
+  index: -1
+hailang_00015
+  rotate: false
+  xy: 769, 473
+  size: 190, 311
+  orig: 190, 313
+  offset: 0, 0
+  index: -1
+hailang_00016
+  rotate: false
+  xy: 769, 172
+  size: 190, 299
+  orig: 190, 300
+  offset: 0, 0
+  index: -1
+hailang_00017
+  rotate: false
+  xy: 1, 105
+  size: 190, 337
+  orig: 190, 338
+  offset: 0, 0
+  index: -1
+hailang_00018
+  rotate: false
+  xy: 577, 147
+  size: 190, 317
+  orig: 190, 317
+  offset: 0, 0
+  index: -1
+hailang_00019
+  rotate: false
+  xy: 961, 488
+  size: 190, 296
+  orig: 190, 296
+  offset: 0, 0
+  index: -1
+hailang_00020
+  rotate: false
+  xy: 1153, 512
+  size: 190, 272
+  orig: 190, 272
+  offset: 0, 0
+  index: -1
+hailang_00021
+  rotate: false
+  xy: 1345, 538
+  size: 190, 246
+  orig: 190, 246
+  offset: 0, 0
+  index: -1
+hailang_00022
+  rotate: false
+  xy: 1153, 27
+  size: 190, 212
+  orig: 190, 213
+  offset: 0, 0
+  index: -1
+hailang_00023
+  rotate: false
+  xy: 961, 8
+  size: 190, 182
+  orig: 190, 182
+  offset: 0, 0
+  index: -1
+hailang_00024
+  rotate: false
+  xy: 769, 21
+  size: 190, 149
+  orig: 190, 149
+  offset: 0, 0
+  index: -1
+hailang_00025
+  rotate: false
+  xy: 193, 18
+  size: 190, 115
+  orig: 190, 115
+  offset: 0, 0
+  index: -1
+hailang_00026
+  rotate: false
+  xy: 1, 29
+  size: 190, 74
+  orig: 190, 74
+  offset: 0, 0
+  index: -1
+hailang_00027
+  rotate: true
+  xy: 1729, 615
+  size: 169, 38
+  orig: 170, 38
+  offset: 0, 0
+  index: -1
+yyt1
+  rotate: true
+  xy: 1698, 8
+  size: 95, 70
+  orig: 96, 74
+  offset: 1, 4
+  index: -1
+yyt2
+  rotate: false
+  xy: 1495, 5
+  size: 98, 98
+  orig: 100, 102
+  offset: 1, 2
+  index: -1
+yyt3
+  rotate: false
+  xy: 1595, 35
+  size: 101, 68
+  orig: 103, 73
+  offset: 0, 5
+  index: -1
+yyt4
+  rotate: true
+  xy: 385, 19
+  size: 122, 178
+  orig: 136, 187
+  offset: 0, 5
+  index: -1
+yytou
+  rotate: true
+  xy: 577, 15
+  size: 130, 166
+  orig: 134, 170
+  offset: 2, 1
+  index: -1

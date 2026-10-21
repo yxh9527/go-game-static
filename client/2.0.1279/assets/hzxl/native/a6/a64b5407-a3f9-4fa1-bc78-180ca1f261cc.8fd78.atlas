@@ -1,0 +1,69 @@
+
+mj_qingyise.png
+size: 597,178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 559, 50
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+qingys1_CN
+  rotate: true
+  xy: 361, 89
+  size: 87, 120
+  orig: 89, 120
+  offset: 1, 0
+  index: -1
+qingys2_CN
+  rotate: true
+  xy: 522, 20
+  size: 66, 35
+  orig: 68, 35
+  offset: 1, 0
+  index: -1
+qingys3_CN
+  rotate: true
+  xy: 361, 9
+  size: 78, 108
+  orig: 78, 109
+  offset: 0, 0
+  index: -1
+qingys_di
+  rotate: true
+  xy: 522, 88
+  size: 88, 66
+  orig: 100, 73
+  offset: 6, 4
+  index: -1
+qingys_piaoA
+  rotate: false
+  xy: 471, 2
+  size: 36, 26
+  orig: 36, 28
+  offset: 0, 2
+  index: -1
+qingys_piaoB
+  rotate: true
+  xy: 483, 30
+  size: 146, 37
+  orig: 146, 37
+  offset: 0, 0
+  index: -1
+qingys_shan
+  rotate: false
+  xy: 2, 2
+  size: 357, 174
+  orig: 367, 187
+  offset: 0, 13
+  index: -1
+qingys_shanB
+  rotate: false
+  xy: 559, 10
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1

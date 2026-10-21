@@ -1,0 +1,111 @@
+
+baoxianmoshi.png
+size: 176,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoxianmoshi
+  rotate: true
+  xy: 1, 90
+  size: 176, 44
+  orig: 176, 44
+  offset: 0, 0
+  index: -1
+bxms_CN_00001
+  rotate: false
+  xy: 128, 85
+  size: 23, 31
+  orig: 200, 70
+  offset: 10, 29
+  index: -1
+bxms_CN_00002
+  rotate: false
+  xy: 128, 118
+  size: 32, 46
+  orig: 200, 70
+  offset: 10, 14
+  index: -1
+bxms_CN_00003
+  rotate: false
+  xy: 128, 216
+  size: 47, 50
+  orig: 200, 70
+  offset: 10, 10
+  index: -1
+bxms_CN_00004
+  rotate: false
+  xy: 54, 3
+  size: 64, 51
+  orig: 200, 70
+  offset: 12, 9
+  index: -1
+bxms_CN_00005
+  rotate: false
+  xy: 47, 215
+  size: 79, 51
+  orig: 200, 70
+  offset: 19, 9
+  index: -1
+bxms_CN_00006
+  rotate: false
+  xy: 47, 162
+  size: 79, 51
+  orig: 200, 70
+  offset: 43, 9
+  index: -1
+bxms_CN_00007
+  rotate: true
+  xy: 1, 11
+  size: 77, 51
+  orig: 200, 70
+  offset: 68, 9
+  index: -1
+bxms_CN_00008
+  rotate: false
+  xy: 47, 109
+  size: 79, 51
+  orig: 200, 70
+  offset: 93, 9
+  index: -1
+bxms_CN_00009
+  rotate: false
+  xy: 54, 56
+  size: 72, 51
+  orig: 200, 70
+  offset: 117, 9
+  index: -1
+bxms_CN_00010
+  rotate: false
+  xy: 120, 3
+  size: 54, 51
+  orig: 200, 70
+  offset: 138, 9
+  index: -1
+bxms_CN_00011
+  rotate: false
+  xy: 128, 166
+  size: 34, 48
+  orig: 200, 70
+  offset: 157, 9
+  index: -1
+bxms_CN_00012
+  rotate: false
+  xy: 128, 59
+  size: 19, 24
+  orig: 200, 70
+  offset: 172, 9
+  index: -1
+bxms_CN_00013
+  rotate: false
+  xy: 1, 1
+  size: 7, 8
+  orig: 200, 70
+  offset: 182, 12
+  index: -1
+bxms_CN_00014
+  rotate: false
+  xy: 128, 56
+  size: 1, 1
+  orig: 200, 70
+  offset: 199, 0
+  index: -1

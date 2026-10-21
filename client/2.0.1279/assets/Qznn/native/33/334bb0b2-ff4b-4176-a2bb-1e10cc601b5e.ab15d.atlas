@@ -1,0 +1,13 @@
+
+djs.png
+size: 24,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shalou
+  rotate: false
+  xy: 1, 1
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+cartoon09.png
+size: 92,69
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huishou
+  rotate: false
+  xy: 2, 2
+  size: 88, 65
+  orig: 88, 65
+  offset: 0, 0
+  index: -1

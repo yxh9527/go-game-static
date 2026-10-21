@@ -1,0 +1,118 @@
+
+cartoon02.png
+size: 357,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 86, 8
+  size: 84, 60
+  orig: 84, 60
+  offset: 0, 0
+  index: -1
+ji
+  rotate: false
+  xy: 2, 2
+  size: 82, 90
+  orig: 86, 94
+  offset: 1, 3
+  index: -1
+jiaoL
+  rotate: false
+  xy: 320, 27
+  size: 20, 20
+  orig: 22, 22
+  offset: 1, 1
+  index: -1
+jiaoR
+  rotate: true
+  xy: 320, 3
+  size: 22, 18
+  orig: 24, 20
+  offset: 1, 1
+  index: -1
+jiyan
+  rotate: true
+  xy: 340, 3
+  size: 22, 15
+  orig: 24, 17
+  offset: 1, 1
+  index: -1
+she
+  rotate: false
+  xy: 187, 9
+  size: 14, 5
+  orig: 16, 7
+  offset: 1, 1
+  index: -1
+shou
+  rotate: true
+  xy: 241, 5
+  size: 26, 23
+  orig: 28, 25
+  offset: 1, 1
+  index: -1
+shoum
+  rotate: true
+  xy: 266, 3
+  size: 34, 31
+  orig: 38, 34
+  offset: 2, 2
+  index: -1
+shous
+  rotate: true
+  xy: 206, 6
+  size: 25, 33
+  orig: 28, 35
+  offset: 1, 1
+  index: -1
+shouz
+  rotate: true
+  xy: 148, 16
+  size: 76, 56
+  orig: 78, 57
+  offset: 1, 1
+  index: -1
+tou
+  rotate: false
+  xy: 206, 33
+  size: 57, 59
+  orig: 61, 61
+  offset: 2, 1
+  index: -1
+yan
+  rotate: true
+  xy: 299, 14
+  size: 23, 19
+  orig: 27, 23
+  offset: 2, 2
+  index: -1
+yuL
+  rotate: true
+  xy: 265, 39
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+yuR
+  rotate: true
+  xy: 314, 49
+  size: 43, 40
+  orig: 47, 42
+  offset: 2, 1
+  index: -1
+zuis
+  rotate: false
+  xy: 148, 2
+  size: 20, 12
+  orig: 22, 14
+  offset: 1, 1
+  index: -1
+zuix
+  rotate: false
+  xy: 170, 3
+  size: 15, 11
+  orig: 17, 13
+  offset: 1, 1
+  index: -1

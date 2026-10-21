@@ -1,0 +1,62 @@
+
+18aixinpengpeng.png
+size: 171,93
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 89, 95
+  orig: 93, 100
+  offset: 3, 3
+  index: -1
+koushui
+  rotate: false
+  xy: 157, 51
+  size: 8, 18
+  orig: 12, 24
+  offset: 2, 4
+  index: -1
+meiL
+  rotate: true
+  xy: 157, 71
+  size: 20, 12
+  orig: 22, 14
+  offset: 1, 1
+  index: -1
+meiR
+  rotate: false
+  xy: 148, 6
+  size: 21, 12
+  orig: 23, 14
+  offset: 1, 1
+  index: -1
+saihong
+  rotate: true
+  xy: 137, 44
+  size: 47, 18
+  orig: 51, 22
+  offset: 1, 2
+  index: -1
+yanL
+  rotate: false
+  xy: 99, 5
+  size: 47, 36
+  orig: 49, 38
+  offset: 1, 1
+  index: -1
+yanR
+  rotate: true
+  xy: 99, 43
+  size: 48, 36
+  orig: 50, 38
+  offset: 1, 1
+  index: -1
+zui
+  rotate: true
+  xy: 148, 20
+  size: 22, 11
+  orig: 24, 13
+  offset: 1, 1
+  index: -1

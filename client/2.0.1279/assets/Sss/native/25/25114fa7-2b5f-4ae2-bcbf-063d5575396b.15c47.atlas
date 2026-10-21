@@ -1,0 +1,90 @@
+
+qld.png
+size: 669,667
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+da
+  rotate: false
+  xy: 501, 239
+  size: 121, 118
+  orig: 121, 118
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 335
+  size: 497, 330
+  orig: 497, 330
+  offset: 0, 0
+  index: -1
+hengfu
+  rotate: false
+  xy: 2, 221
+  size: 483, 112
+  orig: 483, 112
+  offset: 0, 0
+  index: -1
+huo1
+  rotate: false
+  xy: 222, 30
+  size: 185, 189
+  orig: 185, 189
+  offset: 0, 0
+  index: -1
+huo2
+  rotate: false
+  xy: 2, 17
+  size: 218, 202
+  orig: 218, 202
+  offset: 0, 0
+  index: -1
+lei
+  rotate: false
+  xy: 409, 95
+  size: 123, 124
+  orig: 123, 124
+  offset: 0, 0
+  index: -1
+qiang1
+  rotate: false
+  xy: 501, 513
+  size: 155, 152
+  orig: 155, 152
+  offset: 0, 0
+  index: -1
+qiang2
+  rotate: false
+  xy: 501, 359
+  size: 155, 152
+  orig: 155, 152
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 534, 121
+  size: 114, 116
+  orig: 114, 116
+  offset: 0, 0
+  index: -1
+x1
+  rotate: false
+  xy: 409, 3
+  size: 111, 90
+  orig: 111, 90
+  offset: 0, 0
+  index: -1
+x2
+  rotate: true
+  xy: 534, 54
+  size: 65, 66
+  orig: 65, 66
+  offset: 0, 0
+  index: -1
+x3
+  rotate: false
+  xy: 602, 53
+  size: 65, 66
+  orig: 65, 66
+  offset: 0, 0
+  index: -1

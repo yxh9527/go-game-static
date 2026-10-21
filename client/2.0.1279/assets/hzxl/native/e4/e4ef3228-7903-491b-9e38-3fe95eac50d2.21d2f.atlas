@@ -1,0 +1,48 @@
+
+mj_jibenhu.png
+size: 447,201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 389, 2
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+jibenhu_CN
+  rotate: false
+  xy: 222, 2
+  size: 165, 75
+  orig: 167, 77
+  offset: 2, 1
+  index: -1
+jibenhu_di
+  rotate: false
+  xy: 2, 3
+  size: 218, 196
+  orig: 218, 203
+  offset: 0, 5
+  index: -1
+jibenhu_g
+  rotate: true
+  xy: 345, 93
+  size: 106, 100
+  orig: 108, 100
+  offset: 1, 0
+  index: -1
+jibenhu_yue
+  rotate: false
+  xy: 389, 40
+  size: 50, 51
+  orig: 55, 55
+  offset: 2, 3
+  index: -1
+wz_xin_xixian
+  rotate: false
+  xy: 222, 79
+  size: 121, 120
+  orig: 128, 128
+  offset: 4, 5
+  index: -1

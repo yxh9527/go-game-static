@@ -1,0 +1,62 @@
+
+09qiuhaopai.png
+size: 209,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 90, 94
+  orig: 94, 99
+  offset: 2, 2
+  index: -1
+pai1
+  rotate: false
+  xy: 98, 33
+  size: 46, 59
+  orig: 52, 63
+  offset: 3, 3
+  index: -1
+pai2
+  rotate: false
+  xy: 146, 38
+  size: 40, 54
+  orig: 46, 58
+  offset: 3, 3
+  index: -1
+shouL
+  rotate: false
+  xy: 188, 53
+  size: 19, 39
+  orig: 21, 41
+  offset: 1, 1
+  index: -1
+shouR
+  rotate: true
+  xy: 98, 7
+  size: 24, 45
+  orig: 26, 47
+  offset: 1, 1
+  index: -1
+yankL
+  rotate: true
+  xy: 162, 5
+  size: 31, 36
+  orig: 34, 38
+  offset: 2, 1
+  index: -1
+yankR
+  rotate: true
+  xy: 162, 5
+  size: 31, 36
+  orig: 34, 38
+  offset: 2, 1
+  index: -1
+zui
+  rotate: true
+  xy: 145, 11
+  size: 20, 15
+  orig: 22, 17
+  offset: 1, 1
+  index: -1

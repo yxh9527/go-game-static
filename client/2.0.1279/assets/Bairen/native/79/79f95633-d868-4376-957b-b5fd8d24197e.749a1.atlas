@@ -1,0 +1,13 @@
+
+pxk.png
+size: 112,42
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pxk
+  rotate: false
+  xy: 2, 2
+  size: 108, 38
+  orig: 500, 500
+  offset: 196, 231
+  index: -1

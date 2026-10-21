@@ -1,0 +1,27 @@
+
+mj_pochan.png
+size: 253,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pochan_CN
+  rotate: false
+  xy: 2, 134
+  size: 153, 80
+  orig: 153, 80
+  offset: 0, 0
+  index: -1
+pochan_di
+  rotate: false
+  xy: 2, 2
+  size: 226, 122
+  orig: 244, 135
+  offset: 8, 6
+  index: -1
+pochan_dian
+  rotate: false
+  xy: 157, 126
+  size: 94, 88
+  orig: 99, 93
+  offset: 2, 3
+  index: -1

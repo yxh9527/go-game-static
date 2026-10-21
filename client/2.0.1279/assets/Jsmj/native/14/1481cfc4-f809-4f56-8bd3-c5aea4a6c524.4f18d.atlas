@@ -1,0 +1,48 @@
+
+buhuatx.png
+size: 256,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buhuatx1
+  rotate: true
+  xy: 2, 28
+  size: 112, 150
+  orig: 116, 154
+  offset: 2, 2
+  index: -1
+buhuatx2
+  rotate: false
+  xy: 154, 2
+  size: 100, 138
+  orig: 102, 140
+  offset: 1, 1
+  index: -1
+buhuatx_hua1
+  rotate: false
+  xy: 29, 3
+  size: 26, 23
+  orig: 29, 27
+  offset: 3, 2
+  index: -1
+buhuatx_hua3
+  rotate: true
+  xy: 57, 7
+  size: 19, 21
+  orig: 24, 24
+  offset: 1, 2
+  index: -1
+buhuatx_hua4
+  rotate: false
+  xy: 80, 9
+  size: 17, 17
+  orig: 20, 18
+  offset: 1, 0
+  index: -1
+buhuatx_hua5
+  rotate: false
+  xy: 2, 2
+  size: 25, 24
+  orig: 29, 26
+  offset: 3, 1
+  index: -1

@@ -1,0 +1,41 @@
+
+mj_haopaibuhuan.png
+size: 293,442
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 183, 157
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+haopaibuhuan_CN
+  rotate: true
+  xy: 221, 2
+  size: 191, 66
+  orig: 194, 67
+  offset: 0, 1
+  index: -1
+haopaibuhuan_g
+  rotate: false
+  xy: 2, 11
+  size: 190, 128
+  orig: 192, 130
+  offset: 1, 1
+  index: -1
+haopaibuhuan_shan
+  rotate: true
+  xy: 2, 141
+  size: 299, 179
+  orig: 299, 180
+  offset: 0, 0
+  index: -1
+hunyaojiu_niaoB
+  rotate: true
+  xy: 183, 195
+  size: 245, 108
+  orig: 245, 108
+  offset: 0, 0
+  index: -1

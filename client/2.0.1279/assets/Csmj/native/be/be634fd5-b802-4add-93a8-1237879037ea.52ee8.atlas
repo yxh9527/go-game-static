@@ -1,0 +1,83 @@
+
+mj_jiangjianghu.png
+size: 452,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 385, 413
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+hdl_gd
+  rotate: true
+  xy: 2, 2
+  size: 141, 135
+  orig: 148, 148
+  offset: 2, 6
+  index: -1
+jjh_CN
+  rotate: true
+  xy: 280, 294
+  size: 224, 103
+  orig: 232, 112
+  offset: 4, 4
+  index: -1
+jjh_di
+  rotate: true
+  xy: 99, 159
+  size: 359, 179
+  orig: 431, 215
+  offset: 36, 18
+  index: -1
+jjh_fengjing
+  rotate: true
+  xy: 2, 145
+  size: 373, 95
+  orig: 373, 95
+  offset: 0, 0
+  index: -1
+jjh_hua
+  rotate: true
+  xy: 385, 451
+  size: 67, 65
+  orig: 67, 67
+  offset: 0, 1
+  index: -1
+jjh_huabanA
+  rotate: false
+  xy: 162, 14
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+jjh_huabanB
+  rotate: true
+  xy: 139, 7
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+jjh_yueliang
+  rotate: false
+  xy: 139, 33
+  size: 200, 124
+  orig: 202, 124
+  offset: 0, 0
+  index: -1
+tz_gx
+  rotate: true
+  xy: 341, 6
+  size: 163, 95
+  orig: 172, 109
+  offset: 3, 7
+  index: -1
+wz_xin_xixian
+  rotate: true
+  xy: 280, 171
+  size: 121, 120
+  orig: 128, 128
+  offset: 4, 5
+  index: -1

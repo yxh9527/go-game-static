@@ -1,0 +1,62 @@
+
+k.png
+size: 568,230
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k_a1
+  rotate: false
+  xy: 469, 4
+  size: 96, 111
+  orig: 99, 115
+  offset: 2, 2
+  index: -1
+k_a2
+  rotate: true
+  xy: 258, 2
+  size: 97, 111
+  orig: 100, 115
+  offset: 1, 2
+  index: -1
+k_b2
+  rotate: false
+  xy: 371, 3
+  size: 96, 112
+  orig: 99, 116
+  offset: 1, 2
+  index: -1
+k_c1
+  rotate: false
+  xy: 470, 117
+  size: 96, 111
+  orig: 99, 115
+  offset: 2, 2
+  index: -1
+k_c2
+  rotate: false
+  xy: 371, 117
+  size: 97, 111
+  orig: 100, 115
+  offset: 1, 2
+  index: -1
+kc_a
+  rotate: false
+  xy: 2, 117
+  size: 254, 111
+  orig: 258, 115
+  offset: 2, 2
+  index: -1
+kc_b2
+  rotate: true
+  xy: 258, 101
+  size: 127, 111
+  orig: 130, 115
+  offset: 1, 2
+  index: -1
+kc_c
+  rotate: false
+  xy: 2, 4
+  size: 254, 111
+  orig: 258, 115
+  offset: 2, 2
+  index: -1

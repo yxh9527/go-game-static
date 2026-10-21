@@ -1,0 +1,13 @@
+
+xg.png
+size: 54,47
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xg
+  rotate: false
+  xy: 2, 2
+  size: 50, 43
+  orig: 60, 60
+  offset: 4, 8
+  index: -1

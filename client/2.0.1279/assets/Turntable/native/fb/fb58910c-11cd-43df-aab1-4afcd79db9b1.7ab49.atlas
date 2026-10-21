@@ -1,0 +1,62 @@
+
+br_fqzs_a.png
+size: 229,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 2, 220
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+fqzs_hz1
+  rotate: false
+  xy: 40, 184
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+fqzs_mty1
+  rotate: false
+  xy: 114, 184
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+fqzs_sz1
+  rotate: false
+  xy: 2, 110
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+fqzs_xm1
+  rotate: false
+  xy: 76, 110
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+gqa
+  rotate: true
+  xy: 95, 2
+  size: 103, 114
+  orig: 120, 120
+  offset: 7, 2
+  index: -1
+gqb
+  rotate: true
+  xy: 2, 18
+  size: 90, 91
+  orig: 100, 100
+  offset: 5, 2
+  index: -1
+ye_00000
+  rotate: false
+  xy: 150, 107
+  size: 77, 75
+  orig: 100, 100
+  offset: 12, 13
+  index: -1

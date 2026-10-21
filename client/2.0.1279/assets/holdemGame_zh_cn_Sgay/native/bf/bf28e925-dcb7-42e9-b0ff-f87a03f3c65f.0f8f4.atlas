@@ -1,0 +1,48 @@
+
+Subtract.png
+size: 136,476
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frame 1618873029
+  rotate: false
+  xy: 1, 1
+  size: 92, 23
+  orig: 92, 23
+  offset: 0, 0
+  index: -1
+Subtract_00001
+  rotate: false
+  xy: 1, 26
+  size: 86, 34
+  orig: 86, 34
+  offset: 0, 0
+  index: -1
+Subtract_00002
+  rotate: false
+  xy: 1, 62
+  size: 124, 61
+  orig: 124, 61
+  offset: 0, 0
+  index: -1
+Subtract_00003
+  rotate: false
+  xy: 1, 125
+  size: 130, 93
+  orig: 130, 93
+  offset: 0, 0
+  index: -1
+Subtract_00004
+  rotate: false
+  xy: 1, 220
+  size: 130, 120
+  orig: 130, 120
+  offset: 0, 0
+  index: -1
+Subtract_00005
+  rotate: false
+  xy: 1, 342
+  size: 132, 133
+  orig: 135, 135
+  offset: 1, 1
+  index: -1

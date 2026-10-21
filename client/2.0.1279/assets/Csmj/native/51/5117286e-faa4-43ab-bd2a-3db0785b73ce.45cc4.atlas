@@ -1,0 +1,83 @@
+
+mj_touzi.png
+size: 288,948
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 152, 507
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+tz_CN
+  rotate: true
+  xy: 2, 19
+  size: 155, 90
+  orig: 156, 91
+  offset: 0, 1
+  index: -1
+tz_di
+  rotate: true
+  xy: 2, 545
+  size: 401, 186
+  orig: 462, 225
+  offset: 30, 20
+  index: -1
+tz_guangd
+  rotate: true
+  xy: 94, 2
+  size: 115, 113
+  orig: 120, 120
+  offset: 2, 1
+  index: -1
+tz_guangxian
+  rotate: true
+  xy: 2, 176
+  size: 367, 148
+  orig: 386, 148
+  offset: 7, 0
+  index: -1
+tz_gx
+  rotate: true
+  xy: 190, 421
+  size: 163, 95
+  orig: 172, 109
+  offset: 3, 7
+  index: -1
+tz_huaban
+  rotate: true
+  xy: 152, 453
+  size: 16, 18
+  orig: 23, 22
+  offset: 4, 2
+  index: -1
+tz_huoA
+  rotate: true
+  xy: 190, 586
+  size: 360, 96
+  orig: 360, 96
+  offset: 0, 0
+  index: -1
+tz_mo
+  rotate: true
+  xy: 152, 119
+  size: 300, 129
+  orig: 300, 134
+  offset: 0, 0
+  index: -1
+tz_tzA
+  rotate: true
+  xy: 94, 137
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+tz_tzB
+  rotate: true
+  xy: 152, 471
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1

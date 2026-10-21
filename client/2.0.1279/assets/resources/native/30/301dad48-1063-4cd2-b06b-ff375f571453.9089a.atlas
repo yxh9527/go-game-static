@@ -1,0 +1,174 @@
+
+cartoon03.png
+size: 205,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gen
+  rotate: false
+  xy: 174, 42
+  size: 19, 23
+  orig: 21, 25
+  offset: 1, 1
+  index: -1
+hua
+  rotate: false
+  xy: 53, 64
+  size: 61, 56
+  orig: 63, 60
+  offset: 1, 2
+  index: -1
+x01
+  rotate: false
+  xy: 162, 67
+  size: 33, 36
+  orig: 120, 120
+  offset: 81, 22
+  index: -1
+x02
+  rotate: false
+  xy: 117, 16
+  size: 55, 47
+  orig: 120, 120
+  offset: 59, 11
+  index: -1
+x03
+  rotate: true
+  xy: 146, 161
+  size: 81, 49
+  orig: 120, 120
+  offset: 34, 9
+  index: -1
+x04
+  rotate: true
+  xy: 2, 32
+  size: 100, 49
+  orig: 120, 120
+  offset: 15, 9
+  index: -1
+x05
+  rotate: true
+  xy: 2, 134
+  size: 108, 67
+  orig: 120, 120
+  offset: 7, 8
+  index: -1
+x06
+  rotate: false
+  xy: 2, 244
+  size: 107, 83
+  orig: 120, 120
+  offset: 7, 9
+  index: -1
+x07
+  rotate: false
+  xy: 2, 329
+  size: 109, 93
+  orig: 120, 120
+  offset: 6, 8
+  index: -1
+x08
+  rotate: false
+  xy: 2, 424
+  size: 110, 94
+  orig: 120, 120
+  offset: 5, 8
+  index: -1
+x09
+  rotate: true
+  xy: 113, 317
+  size: 105, 90
+  orig: 120, 120
+  offset: 3, 11
+  index: -1
+x10
+  rotate: true
+  xy: 114, 428
+  size: 90, 88
+  orig: 120, 120
+  offset: 2, 13
+  index: -1
+x11
+  rotate: true
+  xy: 111, 244
+  size: 71, 81
+  orig: 120, 120
+  offset: 6, 18
+  index: -1
+x12
+  rotate: false
+  xy: 71, 164
+  size: 73, 78
+  orig: 120, 120
+  offset: 5, 24
+  index: -1
+x13
+  rotate: true
+  xy: 139, 105
+  size: 54, 64
+  orig: 120, 120
+  offset: 24, 36
+  index: -1
+x14
+  rotate: true
+  xy: 71, 122
+  size: 40, 66
+  orig: 120, 120
+  offset: 37, 35
+  index: -1
+x15
+  rotate: true
+  xy: 53, 22
+  size: 40, 62
+  orig: 120, 120
+  offset: 37, 35
+  index: -1
+x16
+  rotate: true
+  xy: 116, 65
+  size: 38, 44
+  orig: 120, 120
+  offset: 38, 35
+  index: -1
+x17
+  rotate: true
+  xy: 2, 2
+  size: 28, 32
+  orig: 120, 120
+  offset: 42, 40
+  index: -1
+xing
+  rotate: false
+  xy: 197, 83
+  size: 6, 8
+  orig: 8, 10
+  offset: 1, 1
+  index: -1
+ye1
+  rotate: false
+  xy: 36, 13
+  size: 13, 17
+  orig: 15, 19
+  offset: 1, 1
+  index: -1
+ye2
+  rotate: true
+  xy: 116, 107
+  size: 13, 17
+  orig: 15, 19
+  offset: 1, 1
+  index: -1
+ye3
+  rotate: true
+  xy: 197, 93
+  size: 10, 6
+  orig: 12, 8
+  offset: 1, 1
+  index: -1
+ye4
+  rotate: false
+  xy: 194, 308
+  size: 4, 7
+  orig: 6, 9
+  offset: 1, 1
+  index: -1

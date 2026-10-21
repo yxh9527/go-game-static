@@ -1,0 +1,69 @@
+
+13exin.png
+size: 175,93
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 89, 95
+  orig: 93, 100
+  offset: 2, 2
+  index: -1
+hxL
+  rotate: false
+  xy: 99, 4
+  size: 12, 15
+  orig: 14, 17
+  offset: 1, 1
+  index: -1
+hxR
+  rotate: true
+  xy: 145, 48
+  size: 8, 14
+  orig: 10, 16
+  offset: 1, 1
+  index: -1
+mei
+  rotate: true
+  xy: 99, 21
+  size: 70, 8
+  orig: 72, 10
+  offset: 1, 1
+  index: -1
+outuwu
+  rotate: true
+  xy: 113, 6
+  size: 38, 26
+  orig: 40, 28
+  offset: 1, 1
+  index: -1
+yanL
+  rotate: true
+  xy: 145, 58
+  size: 33, 26
+  orig: 38, 30
+  offset: 2, 3
+  index: -1
+yanR
+  rotate: true
+  xy: 147, 18
+  size: 28, 26
+  orig: 32, 29
+  offset: 2, 2
+  index: -1
+yinying
+  rotate: true
+  xy: 109, 46
+  size: 45, 34
+  orig: 49, 39
+  offset: 2, 2
+  index: -1
+zui
+  rotate: true
+  xy: 141, 8
+  size: 36, 4
+  orig: 38, 6
+  offset: 1, 1
+  index: -1

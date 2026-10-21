@@ -1,0 +1,76 @@
+
+youwin4.png
+size: 156,644
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuang_00001
+  rotate: false
+  xy: 1, 623
+  size: 51, 20
+  orig: 160, 100
+  offset: 55, 76
+  index: -1
+kuang_00002
+  rotate: false
+  xy: 54, 623
+  size: 98, 20
+  orig: 160, 100
+  offset: 31, 76
+  index: -1
+kuang_00003
+  rotate: false
+  xy: 1, 596
+  size: 146, 25
+  orig: 160, 100
+  offset: 7, 71
+  index: -1
+kuang_00004
+  rotate: false
+  xy: 1, 545
+  size: 152, 49
+  orig: 160, 100
+  offset: 4, 47
+  index: -1
+kuang_00005
+  rotate: false
+  xy: 1, 470
+  size: 152, 73
+  orig: 160, 100
+  offset: 4, 23
+  index: -1
+kuang_00006
+  rotate: false
+  xy: 1, 377
+  size: 152, 91
+  orig: 160, 100
+  offset: 4, 5
+  index: -1
+kuang_00007
+  rotate: false
+  xy: 1, 283
+  size: 152, 92
+  orig: 160, 100
+  offset: 4, 4
+  index: -1
+kuang_00008
+  rotate: false
+  xy: 1, 189
+  size: 152, 92
+  orig: 160, 100
+  offset: 4, 4
+  index: -1
+kuang_00009
+  rotate: false
+  xy: 1, 95
+  size: 152, 92
+  orig: 160, 100
+  offset: 4, 4
+  index: -1
+kuang_00010
+  rotate: false
+  xy: 1, 1
+  size: 152, 92
+  orig: 160, 100
+  offset: 4, 4
+  index: -1

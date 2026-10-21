@@ -1,0 +1,62 @@
+
+mj_gangshangkaihua.png
+size: 349,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bsks_di_x
+  rotate: true
+  xy: 201, 319
+  size: 200, 86
+  orig: 200, 88
+  offset: 0, 0
+  index: -1
+bt_gskh gx
+  rotate: true
+  xy: 2, 233
+  size: 286, 197
+  orig: 286, 224
+  offset: 0, 27
+  index: -1
+bt_gskh hua
+  rotate: false
+  xy: 201, 234
+  size: 87, 83
+  orig: 89, 84
+  offset: 1, 0
+  index: -1
+bt_gskh huaba
+  rotate: false
+  xy: 319, 98
+  size: 12, 23
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+bt_gskh huabb
+  rotate: false
+  xy: 319, 84
+  size: 9, 12
+  orig: 12, 14
+  offset: 2, 1
+  index: -1
+bt_gskh mh
+  rotate: false
+  xy: 2, 2
+  size: 315, 119
+  orig: 315, 121
+  offset: 0, 0
+  index: -1
+bt_gskh_CN
+  rotate: false
+  xy: 2, 123
+  size: 324, 108
+  orig: 330, 116
+  offset: 4, 4
+  index: -1
+xgb
+  rotate: true
+  xy: 289, 460
+  size: 59, 58
+  orig: 70, 70
+  offset: 6, 4
+  index: -1

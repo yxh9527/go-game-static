@@ -1,0 +1,104 @@
+
+huoq.png
+size: 1278,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houq_00001
+  rotate: true
+  xy: 1228, 28
+  size: 64, 48
+  orig: 71, 56
+  offset: 2, 3
+  index: -1
+houq_00002
+  rotate: false
+  xy: 1142, 32
+  size: 84, 60
+  orig: 90, 68
+  offset: 4, 3
+  index: -1
+houq_00003
+  rotate: false
+  xy: 1050, 20
+  size: 90, 72
+  orig: 93, 80
+  offset: 2, 4
+  index: -1
+houq_00004
+  rotate: false
+  xy: 958, 8
+  size: 90, 84
+  orig: 93, 96
+  offset: 2, 9
+  index: -1
+houq_00005
+  rotate: true
+  xy: 769, 2
+  size: 90, 91
+  orig: 93, 103
+  offset: 2, 8
+  index: -1
+houq_00006
+  rotate: true
+  xy: 2, 2
+  size: 90, 97
+  orig: 93, 101
+  offset: 2, 2
+  index: -1
+houq_00007
+  rotate: true
+  xy: 862, 3
+  size: 89, 94
+  orig: 93, 100
+  offset: 2, 2
+  index: -1
+houq_00008
+  rotate: true
+  xy: 296, 2
+  size: 90, 93
+  orig: 93, 97
+  offset: 2, 2
+  index: -1
+houq_00009
+  rotate: true
+  xy: 581, 2
+  size: 90, 92
+  orig: 93, 103
+  offset: 2, 8
+  index: -1
+houq_00010
+  rotate: true
+  xy: 101, 2
+  size: 90, 97
+  orig: 93, 102
+  offset: 2, 2
+  index: -1
+houq_00011
+  rotate: true
+  xy: 200, 2
+  size: 90, 94
+  orig: 93, 100
+  offset: 2, 2
+  index: -1
+houq_00012
+  rotate: true
+  xy: 391, 2
+  size: 90, 93
+  orig: 93, 99
+  offset: 2, 2
+  index: -1
+houq_00013
+  rotate: true
+  xy: 486, 2
+  size: 90, 93
+  orig: 93, 96
+  offset: 2, 1
+  index: -1
+houq_00014
+  rotate: true
+  xy: 675, 2
+  size: 90, 92
+  orig: 93, 104
+  offset: 2, 9
+  index: -1

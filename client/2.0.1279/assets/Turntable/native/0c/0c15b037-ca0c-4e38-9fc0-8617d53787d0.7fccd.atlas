@@ -1,0 +1,27 @@
+
+caidian.png
+size: 47,17
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cd1
+  rotate: false
+  xy: 17, 2
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+cd2
+  rotate: false
+  xy: 32, 2
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+cd3
+  rotate: false
+  xy: 2, 2
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1

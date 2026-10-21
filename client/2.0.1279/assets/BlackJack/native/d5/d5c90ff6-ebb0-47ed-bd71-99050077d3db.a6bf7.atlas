@@ -1,0 +1,41 @@
+
+21_kuang2.png
+size: 803,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rectangle 1
+  rotate: true
+  xy: 191, 13
+  size: 236, 176
+  orig: 236, 176
+  offset: 0, 0
+  index: -1
+Rectangle 2
+  rotate: true
+  xy: 2, 2
+  size: 247, 187
+  orig: 250, 190
+  offset: 1, 2
+  index: -1
+Rectangle 3
+  rotate: true
+  xy: 369, 13
+  size: 236, 176
+  orig: 236, 176
+  offset: 0, 0
+  index: -1
+kuang1_243x126
+  rotate: true
+  xy: 675, 6
+  size: 243, 126
+  orig: 243, 126
+  offset: 0, 0
+  index: -1
+kuang2_243x126
+  rotate: true
+  xy: 547, 6
+  size: 243, 126
+  orig: 243, 126
+  offset: 0, 0
+  index: -1

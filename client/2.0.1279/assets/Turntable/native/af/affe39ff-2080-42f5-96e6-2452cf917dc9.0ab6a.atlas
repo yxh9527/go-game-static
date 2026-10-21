@@ -1,0 +1,20 @@
+
+br_bcbm_zhizhen.png
+size: 408,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhizhen
+  rotate: true
+  xy: 2, 8
+  size: 148, 248
+  orig: 155, 254
+  offset: 3, 3
+  index: -1
+zhizheng
+  rotate: false
+  xy: 252, 2
+  size: 154, 154
+  orig: 164, 164
+  offset: 5, 5
+  index: -1

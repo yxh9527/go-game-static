@@ -1,0 +1,153 @@
+
+jsmj_mjg.png
+size: 262,594
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+majg_a_00000
+  rotate: true
+  xy: 2, 186
+  size: 84, 122
+  orig: 86, 124
+  offset: 1, 1
+  index: -1
+majg_a_00001
+  rotate: true
+  xy: 126, 182
+  size: 84, 97
+  orig: 86, 99
+  offset: 1, 1
+  index: -1
+majg_a_00002
+  rotate: false
+  xy: 89, 535
+  size: 84, 57
+  orig: 86, 59
+  offset: 1, 1
+  index: -1
+majg_a_00003
+  rotate: true
+  xy: 2, 100
+  size: 84, 97
+  orig: 86, 99
+  offset: 1, 1
+  index: -1
+majg_a_00004
+  rotate: true
+  xy: 101, 96
+  size: 84, 115
+  orig: 86, 117
+  offset: 1, 1
+  index: -1
+majg_a_00005
+  rotate: true
+  xy: 2, 10
+  size: 84, 121
+  orig: 86, 123
+  offset: 1, 1
+  index: -1
+majg_a_00006
+  rotate: true
+  xy: 125, 2
+  size: 92, 132
+  orig: 97, 136
+  offset: 3, 3
+  index: -1
+majg_b_00000
+  rotate: true
+  xy: 2, 546
+  size: 46, 85
+  orig: 50, 89
+  offset: 2, 3
+  index: -1
+majg_b_00001
+  rotate: true
+  xy: 175, 534
+  size: 58, 85
+  orig: 60, 87
+  offset: 1, 1
+  index: -1
+majg_b_00002
+  rotate: true
+  xy: 95, 272
+  size: 70, 81
+  orig: 72, 83
+  offset: 1, 1
+  index: -1
+majg_b_00003
+  rotate: false
+  xy: 178, 268
+  size: 74, 74
+  orig: 76, 76
+  offset: 1, 1
+  index: -1
+majg_b_00004
+  rotate: false
+  xy: 2, 347
+  size: 73, 67
+  orig: 75, 69
+  offset: 1, 1
+  index: -1
+majg_b_00005
+  rotate: false
+  xy: 2, 481
+  size: 74, 63
+  orig: 76, 65
+  offset: 1, 1
+  index: -1
+majg_b_00006
+  rotate: false
+  xy: 2, 416
+  size: 74, 63
+  orig: 76, 65
+  offset: 1, 1
+  index: -1
+majg_c_00000
+  rotate: true
+  xy: 2, 277
+  size: 66, 91
+  orig: 70, 94
+  offset: 2, 2
+  index: -1
+majg_c_00001
+  rotate: true
+  xy: 78, 409
+  size: 62, 90
+  orig: 64, 92
+  offset: 1, 1
+  index: -1
+majg_c_00002
+  rotate: true
+  xy: 170, 408
+  size: 62, 89
+  orig: 64, 91
+  offset: 1, 1
+  index: -1
+majg_c_00003
+  rotate: true
+  xy: 77, 345
+  size: 62, 87
+  orig: 64, 89
+  offset: 1, 1
+  index: -1
+majg_c_00004
+  rotate: true
+  xy: 166, 344
+  size: 62, 90
+  orig: 64, 92
+  offset: 1, 1
+  index: -1
+majg_c_00005
+  rotate: true
+  xy: 78, 473
+  size: 60, 90
+  orig: 62, 92
+  offset: 1, 1
+  index: -1
+majg_c_00006
+  rotate: true
+  xy: 170, 472
+  size: 60, 88
+  orig: 62, 90
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,160 @@
+
+br_fqzs_b.png
+size: 450,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bguang_00000
+  rotate: false
+  xy: 404, 7
+  size: 28, 16
+  orig: 50, 50
+  offset: 8, 28
+  index: -1
+Bguang_00001
+  rotate: false
+  xy: 314, 50
+  size: 32, 21
+  orig: 50, 50
+  offset: 13, 24
+  index: -1
+Bguang_00002
+  rotate: true
+  xy: 280, 49
+  size: 22, 32
+  orig: 50, 50
+  offset: 24, 13
+  index: -1
+Bguang_00003
+  rotate: false
+  xy: 348, 53
+  size: 39, 34
+  orig: 50, 50
+  offset: 7, 6
+  index: -1
+Bguang_00004
+  rotate: false
+  xy: 316, 9
+  size: 35, 39
+  orig: 50, 50
+  offset: 11, 5
+  index: -1
+Bguang_00005
+  rotate: true
+  xy: 278, 8
+  size: 38, 36
+  orig: 50, 50
+  offset: 7, 5
+  index: -1
+Bguang_00006
+  rotate: true
+  xy: 124, 5
+  size: 41, 37
+  orig: 50, 50
+  offset: 3, 5
+  index: -1
+Bguang_00007
+  rotate: true
+  xy: 44, 3
+  size: 42, 38
+  orig: 50, 50
+  offset: 4, 5
+  index: -1
+Bguang_00008
+  rotate: true
+  xy: 2, 4
+  size: 41, 40
+  orig: 50, 50
+  offset: 4, 6
+  index: -1
+Bguang_00009
+  rotate: false
+  xy: 241, 6
+  size: 35, 40
+  orig: 50, 50
+  offset: 5, 5
+  index: -1
+Bguang_00010
+  rotate: true
+  xy: 203, 5
+  size: 41, 36
+  orig: 50, 50
+  offset: 4, 9
+  index: -1
+Bguang_00011
+  rotate: false
+  xy: 84, 5
+  size: 38, 40
+  orig: 50, 50
+  offset: 6, 5
+  index: -1
+Bguang_00012
+  rotate: false
+  xy: 163, 7
+  size: 38, 39
+  orig: 50, 50
+  offset: 8, 5
+  index: -1
+Bguang_00013
+  rotate: false
+  xy: 389, 58
+  size: 39, 29
+  orig: 50, 50
+  offset: 5, 6
+  index: -1
+Bguang_00014
+  rotate: false
+  xy: 404, 25
+  size: 30, 31
+  orig: 50, 50
+  offset: 8, 6
+  index: -1
+fqzs_a
+  rotate: false
+  xy: 400, 91
+  size: 48, 48
+  orig: 52, 52
+  offset: 2, 2
+  index: -1
+fqzs_b
+  rotate: false
+  xy: 348, 89
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+fqzs_c
+  rotate: false
+  xy: 353, 2
+  size: 49, 49
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+gq_a
+  rotate: false
+  xy: 2, 47
+  size: 92, 92
+  orig: 100, 99
+  offset: 4, 4
+  index: -1
+gq_b
+  rotate: false
+  xy: 96, 48
+  size: 90, 91
+  orig: 100, 100
+  offset: 5, 5
+  index: -1
+gq_c
+  rotate: false
+  xy: 188, 48
+  size: 90, 91
+  orig: 100, 100
+  offset: 5, 5
+  index: -1
+gqf
+  rotate: false
+  xy: 280, 73
+  size: 66, 66
+  orig: 68, 68
+  offset: 1, 1
+  index: -1

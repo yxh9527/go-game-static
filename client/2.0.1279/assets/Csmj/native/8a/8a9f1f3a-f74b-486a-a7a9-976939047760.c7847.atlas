@@ -1,0 +1,76 @@
+
+mj_tz.png
+size: 611,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+touzi1
+  rotate: true
+  xy: 2, 2
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+touzi2
+  rotate: true
+  xy: 90, 2
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+touzi3
+  rotate: true
+  xy: 178, 2
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+touzi4
+  rotate: true
+  xy: 266, 2
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+touzi5
+  rotate: true
+  xy: 354, 2
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+touzi6
+  rotate: true
+  xy: 442, 2
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+tz da a_00000
+  rotate: true
+  xy: 530, 45
+  size: 37, 41
+  orig: 40, 43
+  offset: 2, 1
+  index: -1
+tz da b_00002
+  rotate: false
+  xy: 573, 41
+  size: 36, 41
+  orig: 40, 43
+  offset: 2, 1
+  index: -1
+tz da c_00004
+  rotate: true
+  xy: 568, 3
+  size: 36, 39
+  orig: 40, 43
+  offset: 2, 2
+  index: -1
+tz da d_00006
+  rotate: false
+  xy: 530, 2
+  size: 36, 41
+  orig: 40, 43
+  offset: 2, 1
+  index: -1

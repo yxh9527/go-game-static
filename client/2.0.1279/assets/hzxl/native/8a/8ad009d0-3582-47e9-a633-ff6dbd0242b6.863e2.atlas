@@ -1,0 +1,90 @@
+
+mj_duanyaojiu.png
+size: 264,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 223, 58
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+duanyaojiu_CN
+  rotate: true
+  xy: 175, 281
+  size: 221, 85
+  orig: 240, 99
+  offset: 8, 12
+  index: -1
+duanyaojiu_hua
+  rotate: true
+  xy: 2, 249
+  size: 253, 171
+  orig: 253, 171
+  offset: 0, 0
+  index: -1
+hdl_gd
+  rotate: false
+  xy: 2, 2
+  size: 141, 135
+  orig: 148, 148
+  offset: 2, 6
+  index: -1
+hunyaojiu_guang
+  rotate: true
+  xy: 145, 12
+  size: 125, 76
+  orig: 125, 87
+  offset: 0, 10
+  index: -1
+hunyaojiu_maj1
+  rotate: false
+  xy: 223, 96
+  size: 39, 41
+  orig: 40, 42
+  offset: 0, 1
+  index: -1
+hunyaojiu_maj2
+  rotate: false
+  xy: 223, 19
+  size: 35, 37
+  orig: 36, 37
+  offset: 1, 0
+  index: -1
+hunyaojiu_niaoA1
+  rotate: true
+  xy: 242, 262
+  size: 17, 14
+  orig: 18, 15
+  offset: 0, 1
+  index: -1
+hunyaojiu_niaoA2
+  rotate: false
+  xy: 199, 263
+  size: 18, 16
+  orig: 20, 16
+  offset: 1, 0
+  index: -1
+hunyaojiu_niaoA3
+  rotate: false
+  xy: 219, 265
+  size: 21, 14
+  orig: 23, 16
+  offset: 1, 1
+  index: -1
+hunyaojiu_niaoB
+  rotate: false
+  xy: 2, 139
+  size: 245, 108
+  orig: 245, 108
+  offset: 0, 0
+  index: -1
+hunyaojiu_touzi
+  rotate: false
+  xy: 175, 258
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1

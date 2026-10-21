@@ -1,0 +1,55 @@
+
+lhd_huanpai.png
+size: 1013,197
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bjlph_f
+  rotate: false
+  xy: 2, 2
+  size: 295, 193
+  orig: 295, 197
+  offset: 0, 4
+  index: -1
+bjlph_f2
+  rotate: false
+  xy: 299, 18
+  size: 275, 177
+  orig: 295, 197
+  offset: 20, 4
+  index: -1
+bjlph_s
+  rotate: false
+  xy: 576, 21
+  size: 109, 174
+  orig: 117, 176
+  offset: 0, 2
+  index: -1
+bjlph_s_2
+  rotate: false
+  xy: 687, 24
+  size: 108, 171
+  orig: 117, 176
+  offset: 1, 5
+  index: -1
+paibei_1
+  rotate: false
+  xy: 930, 81
+  size: 81, 114
+  orig: 81, 114
+  offset: 0, 0
+  index: -1
+paibei_2
+  rotate: true
+  xy: 797, 4
+  size: 81, 114
+  orig: 81, 114
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 797, 87
+  size: 131, 108
+  orig: 135, 168
+  offset: 3, 1
+  index: -1

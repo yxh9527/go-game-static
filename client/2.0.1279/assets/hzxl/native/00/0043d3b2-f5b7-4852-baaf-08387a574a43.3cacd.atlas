@@ -1,0 +1,48 @@
+
+mj_gangpao.png
+size: 340,493
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gp_CN
+  rotate: false
+  xy: 147, 405
+  size: 173, 86
+  orig: 174, 87
+  offset: 0, 1
+  index: -1
+gp_hh
+  rotate: true
+  xy: 2, 478
+  size: 13, 19
+  orig: 25, 26
+  offset: 6, 4
+  index: -1
+gp_yanhua
+  rotate: false
+  xy: 69, 420
+  size: 76, 71
+  orig: 80, 72
+  offset: 3, 0
+  index: -1
+gp_yanhuab
+  rotate: false
+  xy: 23, 447
+  size: 44, 44
+  orig: 45, 46
+  offset: 1, 1
+  index: -1
+tz_di
+  rotate: true
+  xy: 152, 2
+  size: 401, 186
+  orig: 462, 225
+  offset: 30, 20
+  index: -1
+tz_guangxian
+  rotate: true
+  xy: 2, 36
+  size: 367, 148
+  orig: 386, 148
+  offset: 7, 0
+  index: -1

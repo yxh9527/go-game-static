@@ -1,0 +1,272 @@
+
+bjl_huok.png
+size: 2000,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bjl_huok_a_00001
+  rotate: true
+  xy: 1972, 95
+  size: 110, 26
+  orig: 117, 35
+  offset: 5, 3
+  index: -1
+bjl_huok_a_00002
+  rotate: true
+  xy: 1847, 135
+  size: 156, 68
+  orig: 159, 74
+  offset: 2, 2
+  index: -1
+bjl_huok_a_00003
+  rotate: true
+  xy: 1735, 133
+  size: 158, 110
+  orig: 164, 114
+  offset: 4, 1
+  index: -1
+bjl_huok_a_00004
+  rotate: true
+  xy: 939, 131
+  size: 160, 130
+  orig: 164, 134
+  offset: 3, 2
+  index: -1
+bjl_huok_a_00005
+  rotate: false
+  xy: 1126, 2
+  size: 159, 128
+  orig: 164, 140
+  offset: 3, 8
+  index: -1
+bjl_huok_a_00006
+  rotate: true
+  xy: 1071, 132
+  size: 159, 134
+  orig: 164, 139
+  offset: 3, 2
+  index: -1
+bjl_huok_a_00007
+  rotate: true
+  xy: 671, 131
+  size: 160, 133
+  orig: 163, 137
+  offset: 2, 1
+  index: -1
+bjl_huok_a_00008
+  rotate: true
+  xy: 1207, 132
+  size: 159, 131
+  orig: 163, 135
+  offset: 2, 1
+  index: -1
+bjl_huok_a_00009
+  rotate: true
+  xy: 1472, 132
+  size: 159, 129
+  orig: 163, 138
+  offset: 2, 6
+  index: -1
+bjl_huok_a_00010
+  rotate: true
+  xy: 1340, 132
+  size: 159, 130
+  orig: 164, 138
+  offset: 4, 5
+  index: -1
+bjl_huok_a_00011
+  rotate: true
+  xy: 806, 131
+  size: 160, 131
+  orig: 163, 137
+  offset: 2, 3
+  index: -1
+bjl_huok_a_00012
+  rotate: true
+  xy: 1603, 133
+  size: 158, 130
+  orig: 165, 136
+  offset: 4, 3
+  index: -1
+bjl_huok_a_00013
+  rotate: false
+  xy: 1287, 2
+  size: 159, 128
+  orig: 166, 135
+  offset: 4, 4
+  index: -1
+bjl_huok_a_00014
+  rotate: false
+  xy: 1448, 2
+  size: 159, 128
+  orig: 167, 134
+  offset: 3, 4
+  index: -1
+bjl_huok_a_00015
+  rotate: true
+  xy: 270, 130
+  size: 161, 132
+  orig: 168, 138
+  offset: 4, 4
+  index: -1
+bjl_huok_a_00016
+  rotate: true
+  xy: 2, 129
+  size: 162, 133
+  orig: 166, 140
+  offset: 3, 4
+  index: -1
+bjl_huok_a_00017
+  rotate: true
+  xy: 404, 130
+  size: 161, 132
+  orig: 166, 138
+  offset: 4, 2
+  index: -1
+bjl_huok_a_00018
+  rotate: true
+  xy: 137, 129
+  size: 162, 131
+  orig: 166, 136
+  offset: 3, 2
+  index: -1
+bjl_huok_a_00019
+  rotate: true
+  xy: 538, 130
+  size: 161, 131
+  orig: 167, 139
+  offset: 4, 5
+  index: -1
+bjl_huok_b_00001
+  rotate: false
+  xy: 1917, 152
+  size: 53, 53
+  orig: 61, 57
+  offset: 6, 2
+  index: -1
+bjl_huok_b_00002
+  rotate: false
+  xy: 1917, 207
+  size: 80, 84
+  orig: 83, 88
+  offset: 2, 2
+  index: -1
+bjl_huok_b_00003
+  rotate: false
+  xy: 1867, 23
+  size: 84, 110
+  orig: 88, 115
+  offset: 2, 2
+  index: -1
+bjl_huok_b_00004
+  rotate: false
+  xy: 519, 6
+  size: 84, 122
+  orig: 88, 129
+  offset: 2, 3
+  index: -1
+bjl_huok_b_00005
+  rotate: false
+  xy: 605, 6
+  size: 84, 122
+  orig: 89, 126
+  offset: 3, 2
+  index: -1
+bjl_huok_b_00006
+  rotate: false
+  xy: 1781, 11
+  size: 84, 120
+  orig: 91, 131
+  offset: 3, 8
+  index: -1
+bjl_huok_b_00007
+  rotate: false
+  xy: 691, 2
+  size: 84, 127
+  orig: 92, 132
+  offset: 4, 2
+  index: -1
+bjl_huok_b_00008
+  rotate: false
+  xy: 345, 2
+  size: 84, 126
+  orig: 92, 130
+  offset: 4, 2
+  index: -1
+bjl_huok_b_00009
+  rotate: false
+  xy: 175, 3
+  size: 83, 124
+  orig: 92, 129
+  offset: 4, 2
+  index: -1
+bjl_huok_b_00010
+  rotate: false
+  xy: 89, 3
+  size: 84, 124
+  orig: 91, 128
+  offset: 2, 2
+  index: -1
+bjl_huok_b_00011
+  rotate: false
+  xy: 865, 8
+  size: 85, 121
+  orig: 91, 129
+  offset: 2, 4
+  index: -1
+bjl_huok_b_00012
+  rotate: false
+  xy: 431, 5
+  size: 86, 123
+  orig: 91, 128
+  offset: 2, 3
+  index: -1
+bjl_huok_b_00013
+  rotate: false
+  xy: 952, 8
+  size: 85, 121
+  orig: 90, 126
+  offset: 3, 2
+  index: -1
+bjl_huok_b_00014
+  rotate: false
+  xy: 1694, 11
+  size: 85, 120
+  orig: 90, 125
+  offset: 3, 2
+  index: -1
+bjl_huok_b_00015
+  rotate: false
+  xy: 777, 8
+  size: 86, 121
+  orig: 90, 127
+  offset: 3, 3
+  index: -1
+bjl_huok_b_00016
+  rotate: false
+  xy: 1039, 8
+  size: 85, 121
+  orig: 90, 127
+  offset: 3, 2
+  index: -1
+bjl_huok_b_00017
+  rotate: false
+  xy: 2, 2
+  size: 85, 125
+  orig: 92, 131
+  offset: 3, 2
+  index: -1
+bjl_huok_b_00018
+  rotate: false
+  xy: 260, 3
+  size: 83, 124
+  orig: 92, 129
+  offset: 3, 2
+  index: -1
+bjl_huok_b_00019
+  rotate: false
+  xy: 1609, 10
+  size: 83, 121
+  orig: 90, 127
+  offset: 2, 2
+  index: -1

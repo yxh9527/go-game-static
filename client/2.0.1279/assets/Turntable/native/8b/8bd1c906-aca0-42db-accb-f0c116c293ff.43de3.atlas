@@ -1,0 +1,20 @@
+
+br_slwh_zhizhen.png
+size: 449,255
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+br_slwh_zhizhen
+  rotate: false
+  xy: 258, 57
+  size: 189, 196
+  orig: 193, 201
+  offset: 1, 4
+  index: -1
+br_slwh_zhizheng
+  rotate: true
+  xy: 2, 2
+  size: 251, 254
+  orig: 302, 318
+  offset: 22, 37
+  index: -1

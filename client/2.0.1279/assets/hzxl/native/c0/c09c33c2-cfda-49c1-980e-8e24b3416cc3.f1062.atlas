@@ -1,0 +1,83 @@
+
+mj_hongzhonggang.png
+size: 504,537
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dasixi_hguang
+  rotate: false
+  xy: 2, 356
+  size: 348, 179
+  orig: 358, 180
+  offset: 0, 0
+  index: -1
+dasixi_long
+  rotate: false
+  xy: 2, 3
+  size: 317, 167
+  orig: 318, 180
+  offset: 1, 12
+  index: -1
+dasixi_yq
+  rotate: false
+  xy: 2, 172
+  size: 306, 182
+  orig: 330, 192
+  offset: 11, 1
+  index: -1
+dian
+  rotate: false
+  xy: 415, 82
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+dian_d
+  rotate: false
+  xy: 415, 120
+  size: 38, 38
+  orig: 40, 40
+  offset: 1, 1
+  index: -1
+hongzhonggang_CN
+  rotate: true
+  xy: 321, 2
+  size: 208, 92
+  orig: 212, 97
+  offset: 1, 3
+  index: -1
+hongzhonggang_gu
+  rotate: true
+  xy: 427, 246
+  size: 79, 75
+  orig: 81, 76
+  offset: 1, 1
+  index: -1
+hongzhonggang_mj
+  rotate: false
+  xy: 415, 160
+  size: 40, 46
+  orig: 41, 47
+  offset: 0, 1
+  index: -1
+hongzhonggang_shan
+  rotate: true
+  xy: 352, 327
+  size: 208, 140
+  orig: 208, 140
+  offset: 0, 0
+  index: -1
+hongzhonggang_shanz
+  rotate: true
+  xy: 427, 208
+  size: 36, 59
+  orig: 38, 59
+  offset: 1, 0
+  index: -1
+tz_guangd
+  rotate: false
+  xy: 310, 212
+  size: 115, 113
+  orig: 120, 120
+  offset: 2, 1
+  index: -1

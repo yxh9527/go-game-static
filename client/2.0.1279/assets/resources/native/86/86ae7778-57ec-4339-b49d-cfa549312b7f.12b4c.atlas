@@ -1,0 +1,104 @@
+
+cartoon08.png
+size: 1255,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huo1
+  rotate: false
+  xy: 1212, 103
+  size: 14, 10
+  orig: 16, 13
+  offset: 1, 1
+  index: -1
+huo2
+  rotate: false
+  xy: 1228, 104
+  size: 14, 9
+  orig: 18, 12
+  offset: 1, 2
+  index: -1
+huo3
+  rotate: true
+  xy: 1212, 115
+  size: 26, 21
+  orig: 29, 23
+  offset: 2, 1
+  index: -1
+huojian
+  rotate: true
+  xy: 1151, 61
+  size: 80, 59
+  orig: 84, 63
+  offset: 2, 3
+  index: -1
+ky_zhuangji_00000
+  rotate: false
+  xy: 1035, 29
+  size: 114, 112
+  orig: 212, 150
+  offset: 58, 16
+  index: -1
+ky_zhuangji_00001
+  rotate: false
+  xy: 164, 2
+  size: 153, 139
+  orig: 212, 150
+  offset: 34, 5
+  index: -1
+ky_zhuangji_00002
+  rotate: false
+  xy: 2, 2
+  size: 160, 139
+  orig: 212, 150
+  offset: 33, 5
+  index: -1
+ky_zhuangji_00003
+  rotate: false
+  xy: 319, 3
+  size: 160, 138
+  orig: 212, 150
+  offset: 35, 6
+  index: -1
+ky_zhuangji_00004
+  rotate: false
+  xy: 481, 3
+  size: 156, 138
+  orig: 212, 150
+  offset: 38, 6
+  index: -1
+ky_zhuangji_00005
+  rotate: false
+  xy: 639, 13
+  size: 135, 128
+  orig: 212, 150
+  offset: 46, 6
+  index: -1
+ky_zhuangji_00006
+  rotate: true
+  xy: 776, 29
+  size: 112, 129
+  orig: 212, 150
+  offset: 70, 6
+  index: -1
+ky_zhuangji_00007
+  rotate: true
+  xy: 907, 29
+  size: 112, 126
+  orig: 212, 150
+  offset: 71, 10
+  index: -1
+ky_zhuangji_00008
+  rotate: false
+  xy: 1151, 10
+  size: 53, 49
+  orig: 212, 150
+  offset: 130, 87
+  index: -1
+ky_zhuangji_00009
+  rotate: true
+  xy: 1206, 7
+  size: 52, 47
+  orig: 212, 150
+  offset: 131, 90
+  index: -1

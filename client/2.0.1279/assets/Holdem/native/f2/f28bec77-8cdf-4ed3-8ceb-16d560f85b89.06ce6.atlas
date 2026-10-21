@@ -1,0 +1,48 @@
+
+Squid.png
+size: 100,99
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pao
+  rotate: false
+  xy: 53, 29
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+xyyA
+  rotate: false
+  xy: 2, 2
+  size: 49, 40
+  orig: 51, 41
+  offset: 1, 0
+  index: -1
+xyyB
+  rotate: false
+  xy: 51, 57
+  size: 40, 40
+  orig: 51, 41
+  offset: 10, 0
+  index: -1
+xyys
+  rotate: false
+  xy: 2, 44
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+xyyt1
+  rotate: true
+  xy: 53, 7
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+xyyt2
+  rotate: false
+  xy: 80, 6
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1

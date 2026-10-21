@@ -1,0 +1,83 @@
+
+14facai.png
+size: 199,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 90, 95
+  orig: 93, 98
+  offset: 2, 1
+  index: -1
+koushui
+  rotate: true
+  xy: 117, 4
+  size: 13, 27
+  orig: 16, 30
+  offset: 2, 2
+  index: -1
+meiL
+  rotate: false
+  xy: 173, 5
+  size: 12, 12
+  orig: 14, 14
+  offset: 1, 1
+  index: -1
+meiR
+  rotate: false
+  xy: 99, 5
+  size: 15, 8
+  orig: 17, 10
+  offset: 1, 1
+  index: -1
+qianL
+  rotate: true
+  xy: 150, 25
+  size: 20, 26
+  orig: 22, 28
+  offset: 1, 1
+  index: -1
+qianR
+  rotate: true
+  xy: 150, 9
+  size: 14, 21
+  orig: 16, 23
+  offset: 1, 1
+  index: -1
+xing
+  rotate: false
+  xy: 178, 19
+  size: 19, 26
+  orig: 21, 28
+  offset: 1, 1
+  index: -1
+ya
+  rotate: true
+  xy: 99, 15
+  size: 45, 16
+  orig: 47, 18
+  offset: 1, 1
+  index: -1
+yanbaiL
+  rotate: false
+  xy: 158, 47
+  size: 39, 45
+  orig: 42, 48
+  offset: 1, 2
+  index: -1
+yanbaiR
+  rotate: false
+  xy: 117, 19
+  size: 31, 41
+  orig: 34, 43
+  offset: 2, 1
+  index: -1
+zui
+  rotate: false
+  xy: 99, 62
+  size: 57, 30
+  orig: 59, 32
+  offset: 1, 1
+  index: -1

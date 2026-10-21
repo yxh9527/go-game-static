@@ -1,0 +1,20 @@
+
+kk.png
+size: 490,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frame 1618874487
+  rotate: false
+  xy: 2, 2
+  size: 242, 147
+  orig: 244, 149
+  offset: 1, 1
+  index: -1
+Frame 1618874488
+  rotate: false
+  xy: 246, 2
+  size: 242, 147
+  orig: 244, 149
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,90 @@
+
+15ganga.png
+size: 175,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 90, 105
+  orig: 94, 108
+  offset: 2, 1
+  index: -1
+meiL
+  rotate: true
+  xy: 165, 24
+  size: 20, 7
+  orig: 22, 9
+  offset: 1, 1
+  index: -1
+meiR
+  rotate: false
+  xy: 132, 39
+  size: 22, 5
+  orig: 24, 7
+  offset: 1, 1
+  index: -1
+shui1
+  rotate: true
+  xy: 156, 41
+  size: 3, 6
+  orig: 5, 10
+  offset: 1, 2
+  index: -1
+shui2
+  rotate: true
+  xy: 156, 41
+  size: 3, 6
+  orig: 5, 10
+  offset: 1, 2
+  index: -1
+yanbaiL
+  rotate: true
+  xy: 109, 6
+  size: 31, 36
+  orig: 34, 38
+  offset: 2, 1
+  index: -1
+yanbaiR
+  rotate: false
+  xy: 132, 56
+  size: 31, 36
+  orig: 34, 38
+  offset: 2, 1
+  index: -1
+yantongL
+  rotate: false
+  xy: 147, 2
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+yantongR
+  rotate: false
+  xy: 147, 20
+  size: 16, 17
+  orig: 18, 19
+  offset: 1, 1
+  index: -1
+yas
+  rotate: true
+  xy: 165, 64
+  size: 28, 8
+  orig: 30, 10
+  offset: 1, 1
+  index: -1
+yax
+  rotate: false
+  xy: 132, 46
+  size: 37, 8
+  orig: 39, 10
+  offset: 1, 1
+  index: -1
+zui
+  rotate: true
+  xy: 109, 39
+  size: 53, 21
+  orig: 56, 23
+  offset: 2, 1
+  index: -1

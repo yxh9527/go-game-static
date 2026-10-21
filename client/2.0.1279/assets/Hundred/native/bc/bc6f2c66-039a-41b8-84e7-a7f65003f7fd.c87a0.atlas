@@ -1,0 +1,55 @@
+
+bjl_kuang.png
+size: 736,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k229x94
+  rotate: false
+  xy: 243, 104
+  size: 229, 94
+  orig: 229, 94
+  offset: 0, 0
+  index: -1
+ka
+  rotate: true
+  xy: 243, 2
+  size: 100, 174
+  orig: 102, 176
+  offset: 1, 1
+  index: -1
+kb
+  rotate: false
+  xy: 591, 24
+  size: 71, 174
+  orig: 73, 176
+  offset: 1, 1
+  index: -1
+kc
+  rotate: false
+  xy: 474, 24
+  size: 115, 174
+  orig: 117, 176
+  offset: 1, 1
+  index: -1
+kd
+  rotate: false
+  xy: 664, 24
+  size: 70, 174
+  orig: 72, 176
+  offset: 1, 1
+  index: -1
+ke
+  rotate: false
+  xy: 2, 8
+  size: 122, 190
+  orig: 124, 192
+  offset: 1, 1
+  index: -1
+kf
+  rotate: false
+  xy: 126, 8
+  size: 115, 190
+  orig: 117, 192
+  offset: 1, 1
+  index: -1

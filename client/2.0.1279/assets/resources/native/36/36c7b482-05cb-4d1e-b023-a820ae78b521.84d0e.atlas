@@ -1,0 +1,55 @@
+
+21yihuo.png
+size: 97,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 85
+  size: 89, 95
+  orig: 93, 100
+  offset: 3, 2
+  index: -1
+meiL
+  rotate: false
+  xy: 2, 6
+  size: 25, 14
+  orig: 27, 16
+  offset: 1, 1
+  index: -1
+meiR
+  rotate: true
+  xy: 83, 39
+  size: 21, 11
+  orig: 23, 13
+  offset: 1, 1
+  index: -1
+shou
+  rotate: false
+  xy: 2, 22
+  size: 44, 38
+  orig: 47, 41
+  offset: 2, 1
+  index: -1
+yanL
+  rotate: false
+  xy: 48, 2
+  size: 36, 24
+  orig: 41, 26
+  offset: 2, 1
+  index: -1
+yanR
+  rotate: true
+  xy: 48, 28
+  size: 32, 33
+  orig: 34, 35
+  offset: 1, 1
+  index: -1
+zui
+  rotate: false
+  xy: 2, 62
+  size: 93, 21
+  orig: 97, 23
+  offset: 2, 2
+  index: -1

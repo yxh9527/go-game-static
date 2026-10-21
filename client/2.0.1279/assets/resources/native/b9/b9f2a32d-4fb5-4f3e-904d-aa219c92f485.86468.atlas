@@ -1,0 +1,27 @@
+
+youwin2.png
+size: 296,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YOU WIN
+  rotate: false
+  xy: 1, 46
+  size: 212, 35
+  orig: 212, 35
+  offset: 0, 0
+  index: -1
+YOU WIN heng
+  rotate: false
+  xy: 1, 41
+  size: 129, 3
+  orig: 130, 3
+  offset: 1, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 215, 1
+  size: 80, 80
+  orig: 84, 85
+  offset: 2, 3
+  index: -1

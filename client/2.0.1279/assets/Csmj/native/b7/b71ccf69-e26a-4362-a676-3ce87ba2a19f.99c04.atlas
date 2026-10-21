@@ -1,0 +1,111 @@
+
+mj_zi.png
+size: 368,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bsks_di_x
+  rotate: true
+  xy: 2, 175
+  size: 200, 86
+  orig: 200, 88
+  offset: 0, 0
+  index: -1
+bt_bgg
+  rotate: false
+  xy: 2, 377
+  size: 190, 147
+  orig: 190, 148
+  offset: 0, 0
+  index: -1
+bu_CN
+  rotate: true
+  xy: 92, 2
+  size: 82, 88
+  orig: 84, 89
+  offset: 1, 1
+  index: -1
+chi_CN
+  rotate: false
+  xy: 180, 133
+  size: 95, 88
+  orig: 96, 89
+  offset: 1, 1
+  index: -1
+dian
+  rotate: false
+  xy: 306, 246
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+dianpao_CN
+  rotate: false
+  xy: 194, 345
+  size: 153, 81
+  orig: 154, 82
+  offset: 0, 1
+  index: -1
+gang_CN
+  rotate: true
+  xy: 277, 128
+  size: 93, 85
+  orig: 94, 85
+  offset: 0, 0
+  index: -1
+jihu_CN
+  rotate: true
+  xy: 90, 224
+  size: 151, 91
+  orig: 153, 93
+  offset: 1, 2
+  index: -1
+peng_CN
+  rotate: true
+  xy: 182, 35
+  size: 96, 85
+  orig: 97, 86
+  offset: 0, 1
+  index: -1
+pinghu_CN
+  rotate: false
+  xy: 194, 428
+  size: 148, 96
+  orig: 150, 97
+  offset: 1, 1
+  index: -1
+sigui_CN
+  rotate: true
+  xy: 2, 20
+  size: 153, 88
+  orig: 155, 89
+  offset: 1, 1
+  index: -1
+tin_CN
+  rotate: true
+  xy: 269, 42
+  size: 84, 97
+  orig: 86, 99
+  offset: 1, 2
+  index: -1
+wz_xin_xixian
+  rotate: false
+  xy: 183, 223
+  size: 121, 120
+  orig: 128, 128
+  offset: 4, 5
+  index: -1
+xgb
+  rotate: true
+  xy: 306, 284
+  size: 59, 58
+  orig: 70, 70
+  offset: 6, 4
+  index: -1
+zimo_CN
+  rotate: true
+  xy: 92, 86
+  size: 136, 86
+  orig: 137, 87
+  offset: 0, 1
+  index: -1

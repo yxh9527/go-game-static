@@ -1,0 +1,62 @@
+
+br_bcbm_b.png
+size: 240,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bc_a
+  rotate: true
+  xy: 84, 2
+  size: 48, 50
+  orig: 52, 52
+  offset: 2, 1
+  index: -1
+bc_b
+  rotate: true
+  xy: 136, 2
+  size: 48, 50
+  orig: 52, 52
+  offset: 2, 1
+  index: -1
+bc_c
+  rotate: true
+  xy: 188, 2
+  size: 48, 50
+  orig: 52, 52
+  offset: 2, 1
+  index: -1
+gq
+  rotate: false
+  xy: 168, 106
+  size: 66, 66
+  orig: 68, 68
+  offset: 1, 1
+  index: -1
+gq_a
+  rotate: false
+  xy: 2, 90
+  size: 82, 82
+  orig: 90, 89
+  offset: 4, 4
+  index: -1
+gq_b
+  rotate: false
+  xy: 2, 7
+  size: 80, 81
+  orig: 90, 90
+  offset: 5, 5
+  index: -1
+gq_c
+  rotate: false
+  xy: 86, 91
+  size: 80, 81
+  orig: 90, 90
+  offset: 5, 5
+  index: -1
+yuan
+  rotate: true
+  xy: 168, 52
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+mj_jifen.png
+size: 300,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian_b
+  rotate: false
+  xy: 280, 88
+  size: 18, 18
+  orig: 20, 20
+  offset: 1, 1
+  index: -1
+guangxh
+  rotate: true
+  xy: 235, 6
+  size: 100, 43
+  orig: 100, 56
+  offset: 0, 6
+  index: -1
+hengxian
+  rotate: false
+  xy: 2, 42
+  size: 231, 64
+  orig: 232, 64
+  offset: 0, 0
+  index: -1
+jf_a di
+  rotate: false
+  xy: 2, 2
+  size: 106, 38
+  orig: 106, 38
+  offset: 0, 0
+  index: -1
+jf_b di
+  rotate: false
+  xy: 110, 3
+  size: 106, 37
+  orig: 106, 37
+  offset: 0, 0
+  index: -1

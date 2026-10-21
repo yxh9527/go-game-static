@@ -1,0 +1,146 @@
+
+br_mj_c.png
+size: 572,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baok_00008
+  rotate: false
+  xy: 238, 2
+  size: 36, 32
+  orig: 44, 40
+  offset: 4, 4
+  index: -1
+gban
+  rotate: false
+  xy: 481, 58
+  size: 49, 50
+  orig: 60, 60
+  offset: 6, 5
+  index: -1
+gqa
+  rotate: false
+  xy: 421, 50
+  size: 58, 58
+  orig: 60, 60
+  offset: 1, 1
+  index: -1
+jinbi
+  rotate: false
+  xy: 2, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+jinbib
+  rotate: false
+  xy: 104, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+jinbibian
+  rotate: false
+  xy: 206, 8
+  size: 30, 100
+  orig: 30, 100
+  offset: 0, 0
+  index: -1
+jinbidai1
+  rotate: true
+  xy: 238, 36
+  size: 72, 59
+  orig: 80, 64
+  offset: 4, 2
+  index: -1
+jinbidai2
+  rotate: true
+  xy: 299, 36
+  size: 72, 59
+  orig: 80, 64
+  offset: 4, 2
+  index: -1
+jinbidai3
+  rotate: true
+  xy: 360, 36
+  size: 72, 59
+  orig: 80, 64
+  offset: 4, 2
+  index: -1
+jinbisz2
+  rotate: false
+  xy: 486, 2
+  size: 26, 37
+  orig: 40, 40
+  offset: 7, 2
+  index: -1
+jinbisz3
+  rotate: true
+  xy: 314, 6
+  size: 28, 38
+  orig: 40, 40
+  offset: 6, 1
+  index: -1
+jinbisz4
+  rotate: true
+  xy: 276, 4
+  size: 30, 36
+  orig: 40, 40
+  offset: 5, 2
+  index: -1
+jinbisz5
+  rotate: true
+  xy: 532, 81
+  size: 27, 38
+  orig: 40, 40
+  offset: 6, 1
+  index: -1
+jinbisz6
+  rotate: true
+  xy: 532, 52
+  size: 27, 38
+  orig: 40, 40
+  offset: 6, 1
+  index: -1
+jinbisz7
+  rotate: false
+  xy: 514, 2
+  size: 25, 37
+  orig: 40, 40
+  offset: 8, 2
+  index: -1
+jinbisz8
+  rotate: true
+  xy: 354, 6
+  size: 28, 38
+  orig: 40, 40
+  offset: 6, 1
+  index: -1
+jinbisz9
+  rotate: true
+  xy: 394, 7
+  size: 27, 38
+  orig: 40, 40
+  offset: 6, 1
+  index: -1
+mjjb_yy
+  rotate: false
+  xy: 486, 41
+  size: 38, 15
+  orig: 40, 17
+  offset: 1, 1
+  index: -1
+sgb
+  rotate: true
+  xy: 434, 2
+  size: 46, 50
+  orig: 50, 50
+  offset: 2, 0
+  index: -1
+xingg
+  rotate: false
+  xy: 541, 28
+  size: 22, 22
+  orig: 30, 30
+  offset: 4, 3
+  index: -1

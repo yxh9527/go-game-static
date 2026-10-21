@@ -1,0 +1,20 @@
+
+br_by_zhizhen.png
+size: 224,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhizhen
+  rotate: true
+  xy: 2, 2
+  size: 178, 220
+  orig: 182, 223
+  offset: 2, 2
+  index: -1
+zhizheng
+  rotate: false
+  xy: 2, 182
+  size: 216, 92
+  orig: 216, 117
+  offset: 0, 12
+  index: -1

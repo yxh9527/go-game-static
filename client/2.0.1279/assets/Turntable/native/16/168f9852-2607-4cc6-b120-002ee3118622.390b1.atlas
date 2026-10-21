@@ -1,0 +1,76 @@
+
+br_slwh_a.png
+size: 483,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangban
+  rotate: true
+  xy: 159, 75
+  size: 111, 198
+  orig: 113, 200
+  offset: 1, 1
+  index: -1
+guangq
+  rotate: false
+  xy: 379, 106
+  size: 100, 80
+  orig: 100, 100
+  offset: 0, 10
+  index: -1
+slwh_hz1
+  rotate: false
+  xy: 306, 2
+  size: 71, 71
+  orig: 72, 72
+  offset: 1, 1
+  index: -1
+slwh_sz1
+  rotate: false
+  xy: 379, 2
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+slwh_tz1
+  rotate: false
+  xy: 159, 2
+  size: 72, 71
+  orig: 72, 72
+  offset: 0, 1
+  index: -1
+slwh_xm1
+  rotate: false
+  xy: 233, 2
+  size: 71, 71
+  orig: 72, 72
+  offset: 0, 1
+  index: -1
+wxpy
+  rotate: true
+  xy: 2, 30
+  size: 156, 155
+  orig: 200, 201
+  offset: 21, 22
+  index: -1
+yfa
+  rotate: true
+  xy: 359, 76
+  size: 28, 61
+  orig: 30, 63
+  offset: 1, 1
+  index: -1
+yfb
+  rotate: false
+  xy: 453, 42
+  size: 28, 32
+  orig: 30, 34
+  offset: 1, 1
+  index: -1
+yfc
+  rotate: true
+  xy: 422, 76
+  size: 28, 44
+  orig: 30, 46
+  offset: 1, 1
+  index: -1

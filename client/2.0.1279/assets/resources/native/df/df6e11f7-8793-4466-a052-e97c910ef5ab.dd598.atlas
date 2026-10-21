@@ -1,0 +1,27 @@
+
+cartoon15.png
+size: 139,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shang
+  rotate: true
+  xy: 106, 3
+  size: 55, 19
+  orig: 57, 21
+  offset: 1, 1
+  index: -1
+shanh
+  rotate: false
+  xy: 127, 3
+  size: 10, 55
+  orig: 12, 57
+  offset: 1, 1
+  index: -1
+shank
+  rotate: false
+  xy: 2, 2
+  size: 102, 56
+  orig: 104, 59
+  offset: 1, 1
+  index: -1

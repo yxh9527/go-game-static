@@ -1,0 +1,55 @@
+
+lhd_kuang.png
+size: 427,574
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k229x102
+  rotate: true
+  xy: 233, 98
+  size: 229, 102
+  orig: 229, 102
+  offset: 0, 0
+  index: -1
+k229x156
+  rotate: false
+  xy: 2, 2
+  size: 229, 156
+  orig: 229, 156
+  offset: 0, 0
+  index: -1
+k243x156
+  rotate: true
+  xy: 247, 329
+  size: 243, 156
+  orig: 243, 156
+  offset: 0, 0
+  index: -1
+kuanga1
+  rotate: false
+  xy: 337, 171
+  size: 88, 156
+  orig: 88, 156
+  offset: 0, 0
+  index: -1
+kuanga2
+  rotate: true
+  xy: 233, 6
+  size: 90, 156
+  orig: 90, 156
+  offset: 0, 0
+  index: -1
+kuangb1
+  rotate: false
+  xy: 2, 367
+  size: 243, 205
+  orig: 243, 205
+  offset: 0, 0
+  index: -1
+kuangb2
+  rotate: false
+  xy: 2, 160
+  size: 229, 205
+  orig: 229, 205
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+mj_queyise.png
+size: 587,407
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 2, 8
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+qys_CN
+  rotate: true
+  xy: 501, 224
+  size: 181, 84
+  orig: 181, 85
+  offset: 0, 1
+  index: -1
+qys_shanhe
+  rotate: false
+  xy: 2, 196
+  size: 497, 209
+  orig: 497, 228
+  offset: 0, 1
+  index: -1
+qys_shexian
+  rotate: false
+  xy: 371, 2
+  size: 188, 192
+  orig: 189, 195
+  offset: 1, 3
+  index: -1
+tz_guangxian
+  rotate: false
+  xy: 2, 46
+  size: 367, 148
+  orig: 386, 148
+  offset: 7, 0
+  index: -1
